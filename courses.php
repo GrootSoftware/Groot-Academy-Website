@@ -3,7 +3,40 @@
 
 
 
+<!-- curriculum s -->
+<div class="d-flex justify-content-center">
 
+    <div class="card my_cr" >
+        <div class="card-body">
+            <h5 class="card-title">Beginner</h5>
+            <h6 class="card-subtitle">I know bare minimum coding / starting from scratch</h6>
+            <p class="card-text mb-1">12 week course.</p>
+            <a href="enroll.php" class="card-link">Enroll Now!</a>
+         
+        </div>
+    </div>
+
+    <div class="card my_cr" >
+        <div class="card-body">
+            <h5 class="card-title">Intermediate</h5>
+            <h6 class="card-subtitle ">I know coding in 1 programming language. I can build basic apps</h6>
+            <p class="card-text mb-1">12 week course.</p>
+            <a href="enroll.php" class="card-link">Enroll Now!</a>
+         
+        </div>
+    </div>
+
+    <div class="card my_cr" >
+        <div class="card-body">
+            <h5 class="card-title">Advanced</h5>
+            <h6 class="card-subtitle ">I am good at coding. I know basic DSA and problem solving. I can build basic / advanced apps.</h6>
+            <p class="card-text mb-1">12 week course.</p>
+            <a href="enroll.php" class="card-link">Enroll Now!</a>
+         
+        </div>
+    </div>
+</div>
+<!-- curriculum e -->
 
 <!--old Courses section starts-->
 
@@ -171,7 +204,7 @@
 <!-- Courses section starts-->
 <div class="rs-services style4 modify1 gray-color pt-40 pb-120 md-pt-75 md-pb-40 sm-pb-70">
     <div class="container d-flex justify-content-between">
-      
+
 
         <div class="contentAcc">
             <h2>INTRODUCTION TO JAVA <span class="down_arrow">&#8682;</span> </h2>
@@ -809,24 +842,24 @@
     // var acc1 = document.getElementsByClassName("contentAcc");
     var acc = document.getElementsByTagName("h2");
     var i;
-    
+
     for (i = 0; i < acc.length; i++) {
         acc[i].addEventListener("click", function() {
             this.classList.toggle("active");
             var panel = this.nextElementSibling;
-            
+
             var arrow = this.firstElementChild;
             console.log(panel);
-            
+
             // console.log(arrow)
             if (panel.style.display === "block") {
                 panel.style.display = "none";
                 arrow.style.transform = "rotate(180deg)";
-                
+
             } else {
                 panel.style.display = "block";
                 arrow.style.transform = "rotate(0deg)";
-               
+
             }
         });
     }

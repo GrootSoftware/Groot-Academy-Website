@@ -27,7 +27,7 @@
         <p>Our trainers are <strong>Java Experts &amp; Java Professionals</strong> with over (X) years of practical experience. It doesn&rsquo;t matter if you are a beginner or want to improve your existing knowledge of Java. Our trainers will mentor you to become the best in your field. <strong>Ducat Noida</strong> has been a leading training institute for the past twenty years. We prepare you for interviews and provide 100% assistance in job placement with leading tech companies of India. Our ability to provide practical training to our students has made us the <strong>Best Java training institute in Noida, Ghaziabad, Gurgaon, Gr. Noida, Faridabad</strong>.</p>
     </div>
 
-    <!-- <div class="cr_query">
+    <div class="cr_query">
         <div class="q_form" style="width: 100%;">
             <form action="">
 
@@ -39,15 +39,16 @@
             </form>
             <!-- <textarea type="text" class="form-control" placeholder="Query Here" > -->
         </div>
-    </div> -->
+    </div>
 
 </div>
 
 <div class="rs-services style4 modify1 gray-color pt-40 pb-120 md-pt-75 md-pb-40 sm-pb-70">
-    <div class="container d-flex justify-content-between">
-
+    <div class="px-4 d-flex justify-content-around">
 
         <div class="contentAcc">
+        <h4 class="mt-4">JAVA</h4>
+
             <h2>INTRODUCTION TO JAVA <span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
@@ -476,6 +477,8 @@
             </ul>
 
             <h2>OVERVIEW OF JPA FRAMEWORK <span class="down_arrow">&#8682;</span> </h2>
+        </div>
+        <div class="contentAcc">
 
             <h4 class="mt-4">SPRING</h4>
 
@@ -661,7 +664,7 @@
                 <li>Second level cache</li>
             </ul>
         </div>
-
+        <!-- 
         <div class="q_form">
             <form action="">
 
@@ -671,8 +674,8 @@
                 <input type="text" class="form-control my-3" placeholder="Contact Number">
                 <button class=" my-3">SUBMIT</button>
             </form>
-            <!-- <textarea type="text" class="form-control" placeholder="Query Here" > -->
-        </div>
+            <textarea type="text" class="form-control" placeholder="Query Here" >
+        </div> -->
 
     </div>
 </div>
@@ -683,28 +686,28 @@
     <?php include 'includes/footer.php'; ?>
 
     <script>
-    // var acc1 = document.getElementsByClassName("contentAcc");
-    var acc = document.getElementsByTagName("h2");
-    var i;
-    
-    for (i = 0; i < acc.length; i++) {
-        acc[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            var panel = this.nextElementSibling;
-            
-            var arrow = this.firstElementChild;
-            console.log(panel);
-            
-            // console.log(arrow)
-            if (panel.style.display === "block") {
-                panel.style.display = "none";
-                arrow.style.transform = "rotate(180deg)";
-                
-            } else {
-                panel.style.display = "block";
-                arrow.style.transform = "rotate(0deg)";
-               
-            }
-        });
-    }
-</script>
+        // var acc1 = document.getElementsByClassName("contentAcc");
+        var acc = document.getElementsByTagName("h2");
+        var i;
+
+        for (i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var panel = this.nextElementSibling;
+
+                var arrow = this.firstElementChild;
+                console.log(panel);
+
+                // console.log(arrow)
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                    arrow.style.transform = "rotate(180deg)";
+
+                } else {
+                    panel.style.display = "block";
+                    arrow.style.transform = "rotate(0deg)";
+
+                }
+            });
+        }
+    </script>
