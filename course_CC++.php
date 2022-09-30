@@ -45,168 +45,193 @@
 
 <div class="rs-services style4 modify1 gray-color pt-40 pb-120 md-pt-75 md-pb-40 sm-pb-70">
     <div class="px-4 d-flex justify-content-around">
+        <h4 class="mt-4">C PROGRAMMING</h4>
+    </div>
+    <div class="px-4 d-flex justify-content-around">
 
         <div class="contentAcc">
-            <h4 class="mt-4">C PROGRAMMING</h4>
 
-            <h2>INTRODUCTION TO C <span class="down_arrow">&#8682;</span> </h2>
+            <div class="sergio">
 
-            <ul>
-                <li>History of C language</li>
-                <li>Features of C language</li>
-                <li>Importance of C language</li>
-                <li>Procedural approach</li>
+                <h2>INTRODUCTION TO C <span class="down_arrow">&#8682;</span> </h2>
 
-            </ul>
+                <ul>
+                    <li>History of C language</li>
+                    <li>Features of C language</li>
+                    <li>Importance of C language</li>
+                    <li>Procedural approach</li>
 
-            <h2>C LANGUAGE ENVIRONMENT<span class="down_arrow">&#8682;</span> </h2>
+                </ul>
 
-            <ul>
-                <li>Introduction to compiler, interpreter, assembler</li>
-                <li>Working of compiler</li>
-                <li>Compiling, linking and running process</li>
-                <li>IDEs</li>
-            </ul>
+                <h2>C LANGUAGE ENVIRONMENT<span class="down_arrow">&#8682;</span> </h2>
 
-            <h2>BASICS OF C LANGUAGE and Buzzwords <span class="down_arrow">&#8682;</span> </h2>
+                <ul>
+                    <li>Introduction to compiler, interpreter, assembler</li>
+                    <li>Working of compiler</li>
+                    <li>Compiling, linking and running process</li>
+                    <li>IDEs</li>
+                </ul>
 
-            <ul>
-                <li>Preprocessor directives</li>
-                <li>Data type</li>
-                <li>Variables</li>
-                <li>Constants</li>
-                <li>Identifiers</li>
-                <li>Tokens</li>
-                <li>Key words</li>
-            </ul>
+                <h2>BASICS OF C LANGUAGE and Buzzwords <span class="down_arrow">&#8682;</span> </h2>
 
-            <h2>INPUT AND OUTPUT INSTRUCTIONS<span class="down_arrow">&#8682;</span> </h2>
+                <ul>
+                    <li>Preprocessor directives</li>
+                    <li>Data type</li>
+                    <li>Variables</li>
+                    <li>Constants</li>
+                    <li>Identifiers</li>
+                    <li>Tokens</li>
+                    <li>Key words</li>
+                </ul>
 
-            <ul>
-                <li>Reading and writing functions</li>
-                <li>Built in functions</li>
+                <h2>INPUT AND OUTPUT INSTRUCTIONS<span class="down_arrow">&#8682;</span> </h2>
 
-            </ul>
+                <ul>
+                    <li>Reading and writing functions</li>
+                    <li>Built in functions</li>
 
-            <h2>FLOW CONTROL STATEMENTS <span class="down_arrow">&#8682;</span> </h2>
+                </ul>
 
-            <ul>
-                <li>Jump statements(goto, break, continue)</li>
-                <li>If statement</li>
-                <li>If else statement</li>
-                <li>Nested if else statement</li>
-                <li>If else if ladder statement</li>
-                <li>Switch case statement</li>
-                <li>Loops(for, while, do while)</li>
-            </ul>
+                <h2>FLOW CONTROL STATEMENTS <span class="down_arrow">&#8682;</span> </h2>
+
+                <ul>
+                    <li>Jump statements(goto, break, continue)</li>
+                    <li>If statement</li>
+                    <li>If else statement</li>
+                    <li>Nested if else statement</li>
+                    <li>If else if ladder statement</li>
+                    <li>Switch case statement</li>
+                    <li>Loops(for, while, do while)</li>
+                </ul>
 
 
-            <h2>POINTERS <span class="down_arrow">&#8682;</span> </h2>
+                <h2>POINTERS <span class="down_arrow">&#8682;</span> </h2>
 
-            <ul>
-                <li>Introduction to pointers</li>
-                <li>Pointer expressions</li>
-                <li>Types of Pointers</li>
-                <li>Void Pointer</li>
-                <li>NULL Pointer</li>
-                <li>Wild Pointer</li>
-                <li>Dangling Pointer</li>
-                <li>Various examples of pointers</li>
-                <li>Pointer Arithmatics</li>
-                <li>Array using pointers</li>
-                <li>String using pointers</li>
-                <li>Pointers in Functions</li>
-            </ul>
+                <ul>
+                    <li>Introduction to pointers</li>
+                    <li>Pointer expressions</li>
+                    <li>Types of Pointers</li>
+                    <li>Void Pointer</li>
+                    <li>NULL Pointer</li>
+                    <li>Wild Pointer</li>
+                    <li>Dangling Pointer</li>
+                    <li>Various examples of pointers</li>
+                    <li>Pointer Arithmatics</li>
+                    <li>Array using pointers</li>
+                    <li>String using pointers</li>
+                    <li>Pointers in Functions</li>
+                </ul>
 
-            <h2>ARRAY AND STRING<span class="down_arrow">&#8682;</span> </h2>
+                <h2>ARRAY AND STRING<span class="down_arrow">&#8682;</span> </h2>
 
-            <ul>
-                <li>Introduction to array</li>
-                <li>One, two, multi-dimensional arrays</li>
-                <li>Various operations on array</li>
+                <ul>
+                    <li>Introduction to array</li>
+                    <li>One, two, multi-dimensional arrays</li>
+                    <li>Various operations on array</li>
 
-                <li>Applications of array</li>
-                <li>Sorting and searching in array</li>
-                <li>Introduction to string</li>
-                <li>Various operations on strings</li>
-                <li>Applications of string</li>
-            </ul>
+                    <li>Applications of array</li>
+                    <li>Sorting and searching in array</li>
+                    <li>Introduction to string</li>
+                    <li>Various operations on strings</li>
+                    <li>Applications of string</li>
+                </ul>
+            </div>
 
-            <h2>ENUM<span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <lVarious>Introduction to enum</li>
-                    <li>examples of enumi</li>
-            </ul>
-
-            <h2>FILE MANAGEMENT <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to file management</li>
-                <li>File opening modes</li>
-                <li>Opening and closing a file</li>
-                <li>Input output operations on file</li>
-                <li>Error handling</li>
-                <li>Command line arguments</li>
-                <li>Applications of file management</li>
-
-            </ul>
-
-            <h2>PREPROCESSOR <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Macros</li>
-                <li>File inclusions</li>
-                <li>Compiler control directives</li>
-            </ul>
-
-            <h2>FUNCTIONS <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to functions</li>
-                <li>Types of functions</li>
-                <li>Nesting of functions</li>
-                <li>Various examples of functions</li>
-                <li>Integer passing is functions</li>
-                <li>Strings passing is functions</li>
-                <li>Function returning address</li>
-                <li>Recursion</li>
-                <li>Storage classes</li>
-            </ul>
-
-            <h2>STRUCTURE <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to structure</li>
-                <li>Advantages of structure</li>
-                <li>Array of structure</li>
-                <li>Structure using pointer</li>
-                <li>Structure with functions</li>
-                <li>Applications of structure</li>
-            </ul>
-
-            <h2>UNION<span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to union</li>
-                <li>Advantages of unionWhy Need Streams</li>
-            </ul>
-
-            <h2>DYNAMIC MEMORY ALLOCATION <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to dynamic memory allocation</li>
-                <li>Advantage of dynamic memory allocation</li>
-                <li>Malloc(), calloc(),realloc(),free();</li>
-                <li>Array implementation using dynamic memory allocation</li>
-            </ul>
 
 
         </div>
         <div class="contentAcc">
+            <div class="sergio">
+                <h2>ENUM<span class="down_arrow">&#8682;</span> </h2>
 
-            <h4 class="mt-4">C++ Training Course</h4>
+                <ul>
+                    <lVarious>Introduction to enum</li>
+                        <li>examples of enumi</li>
+                </ul>
 
+                <h2>FILE MANAGEMENT <span class="down_arrow">&#8682;</span> </h2>
+
+                <ul>
+                    <li>Introduction to file management</li>
+                    <li>File opening modes</li>
+                    <li>Opening and closing a file</li>
+                    <li>Input output operations on file</li>
+                    <li>Error handling</li>
+                    <li>Command line arguments</li>
+                    <li>Applications of file management</li>
+
+                </ul>
+
+                <h2>PREPROCESSOR <span class="down_arrow">&#8682;</span> </h2>
+
+                <ul>
+                    <li>Macros</li>
+                    <li>File inclusions</li>
+                    <li>Compiler control directives</li>
+                </ul>
+
+                <h2>FUNCTIONS <span class="down_arrow">&#8682;</span> </h2>
+
+                <ul>
+                    <li>Introduction to functions</li>
+                    <li>Types of functions</li>
+                    <li>Nesting of functions</li>
+                    <li>Various examples of functions</li>
+                    <li>Integer passing is functions</li>
+                    <li>Strings passing is functions</li>
+                    <li>Function returning address</li>
+                    <li>Recursion</li>
+                    <li>Storage classes</li>
+                </ul>
+
+                <h2>STRUCTURE <span class="down_arrow">&#8682;</span> </h2>
+
+                <ul>
+                    <li>Introduction to structure</li>
+                    <li>Advantages of structure</li>
+                    <li>Array of structure</li>
+                    <li>Structure using pointer</li>
+                    <li>Structure with functions</li>
+                    <li>Applications of structure</li>
+                </ul>
+
+                <h2>UNION<span class="down_arrow">&#8682;</span> </h2>
+
+                <ul>
+                    <li>Introduction to union</li>
+                    <li>Advantages of unionWhy Need Streams</li>
+                </ul>
+
+                <h2>DYNAMIC MEMORY ALLOCATION <span class="down_arrow">&#8682;</span> </h2>
+
+                <ul>
+                    <li>Introduction to dynamic memory allocation</li>
+                    <li>Advantage of dynamic memory allocation</li>
+                    <li>Malloc(), calloc(),realloc(),free();</li>
+                    <li>Array implementation using dynamic memory allocation</li>
+                </ul>
+            </div>
+
+        </div>
+        <!-- 
+        <div class="q_form">
+            <form action="">
+
+                <h3 class="text-center">Have A Query?</h3>
+                <input type="text" class="form-control my-3" placeholder="Name">
+                <input type="email" class="form-control my-3" placeholder="Email">
+                <input type="text" class="form-control my-3" placeholder="Contact Number">
+                <button class=" my-3">SUBMIT</button>
+            </form>
+            <textarea type="text" class="form-control" placeholder="Query Here" >
+        </div> -->
+
+    </div>
+    <div class="px-4 d-flex justify-content-around">
+        <h4 class="mt-4">C++ PROGRAMMING</h4>
+    </div>
+    <div class="px-4 d-flex justify-content-around">
+        <div class="contentAcc">
             <h2>C++ Language Contents:<span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
@@ -263,6 +288,9 @@
 
             </ul>
 
+        </div>
+        <div class="contentAcc">
+
             <h2>File Management<span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
@@ -297,19 +325,6 @@
                 <li>Etc.</li>
             </ul>
         </div>
-        <!-- 
-        <div class="q_form">
-            <form action="">
-
-                <h3 class="text-center">Have A Query?</h3>
-                <input type="text" class="form-control my-3" placeholder="Name">
-                <input type="email" class="form-control my-3" placeholder="Email">
-                <input type="text" class="form-control my-3" placeholder="Contact Number">
-                <button class=" my-3">SUBMIT</button>
-            </form>
-            <textarea type="text" class="form-control" placeholder="Query Here" >
-        </div> -->
-
     </div>
 </div>
 < <!-- course details ends -->

@@ -47,255 +47,111 @@
     <div class="px-4 d-flex justify-content-around">
 
         <div class="contentAcc">
-            <h4 class="mt-4">C PROGRAMMING</h4>
+            <h4 class="mt-4">DATA STRUCTURE AND ALGORITHMS</h4>
 
-            <h2>INTRODUCTION TO C <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>History of C language</li>
-                <li>Features of C language</li>
-                <li>Importance of C language</li>
-                <li>Procedural approach</li>
-
-            </ul>
-
-            <h2>C LANGUAGE ENVIRONMENT<span class="down_arrow">&#8682;</span> </h2>
+            <h2>INTRODUCTION TO DATA STRUCTURE AND ALGORITHMS<span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
-                <li>Introduction to compiler, interpreter, assembler</li>
-                <li>Working of compiler</li>
-                <li>Compiling, linking and running process</li>
-                <li>IDEs</li>
+                <li>What is data structure</li>
+                <li>Benefits of data structure</li>
+                <li>Types of data structure</li>
+                <li>Introduction to algorithms</li>
+                <li>Types of Algorithms</li>              
+                <li>Time and Space Complexity</li>
+                <li>Interview Questions</li>
             </ul>
 
-            <h2>BASICS OF C LANGUAGE and Buzzwords <span class="down_arrow">&#8682;</span> </h2>
+            <h2>LINEAR DATA STRUCTURE<span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
-                <li>Preprocessor directives</li>
-                <li>Data type</li>
-                <li>Variables</li>
-                <li>Constants</li>
-                <li>Identifiers</li>
-                <li>Tokens</li>
-                <li>Key words</li>
+                <li>Array</li>
+                <li>Introduction to arrays</li>
+                <li>Applications of arrays</li>
+                <li>Introductrtion to Two Dimensional array</li>
+                <li>Application of Two Dimensional Array</li>
+                <li>Multi Dimensional Array</li>
+                <li>Interview Questions</li>
+                <li>String</li>
+                <li>Introduction to strings</li>
+                <li>Applications of strings</li>
+                <li>Interview Questions</li>
+                <li>Array of Strings</li>
+                <li>Link list</li>
+                <li>Introduction to link list</li>
+                <li>Array vs. link lists</li>
+                <li>Types of link lists</li>
+                <li>Implementation of link list</li>
+                <li>Singly link list</li>
+                <li>Insertion , deletion , traversing operations in Singly linked list Doubly link list</li>
+                <li>Insertion , deletion , traversing operations in Doubly linked list Circular link list</li>
+                <li>Insertion , deletion , traversing operations in Circular linked list</li>
+                <li>Application of link list</li>
+                <li>Interview Questions</li>
+                <li>Stack</li>
+                <li>Introduction to stack</li>
+                <li>Stack using linked list</li>
+                <li>Stack using array</li>
+                <li>Applications of stack</li>
+                <li>Polish Notations(Infix to Postfix and Infix to Prefix)</li>
+                <li>Queue</li>
+                <li>Introduction to queue</li>
+                <li>Queue using array</li>
+                <li>Queue using linked list</li>
+                <li>Applications of queue</li>
+                <li>Introduction to circular queue</li>
+                <li>Application of Circular queue</li>
+                <li>Introduction to DeQueue(Double Ended Queue)</li>
+                <li>Application of Dequeue</li>
+                <li>Priority Queue</li>
+                <li>Interview Questions</li>
             </ul>
 
-            <h2>INPUT AND OUTPUT INSTRUCTIONS<span class="down_arrow">&#8682;</span> </h2>
+            <h2>Non-linear data structure<span class="down_arrow">&#8682;</span> </h2>
 
             <ul>
-                <li>Reading and writing functions</li>
-                <li>Built in functions</li>
-
+                <li>Tree</li>
+                <li>Introduction to trees</li>
+                <li>Types of trees</li>
+                <li>Implementation of tress</li>
+                <li>Binary tree</li>
+                <li>Binary search tree</li>
+                <li>AVL tree</li>
+                <li>Threaded binary tree</li>
+                <li>M way tree</li>
+                <li>M way search tree</li>
+                <li>B tree</li>
+                <li>Heap</li>
+                <li>Various operations on trees</li>
+                <li>Application of tress</li>
+                <li>Interview Questions</li>
+                <li>Graph</li>
+                <li>Introduction of graph</li>
+                <li>Types of graphs</li>
+                <li>Implementation of graph using Adj. Matrix and Adj. list</li>
+                <li>Various operations on graphs</li>
+                <li>Shortest path search in graph</li>
+                <li>Floyd Warshall Algorithm</li>
+                <li>Dkjestra Algorithm</li>
+                <li>Minimum spanning tree</li>
+                <li>Kruskal's Algorithm</li>
+                <li>Prims Algorithm</li>
+                <li>Applications of graphs</li>
+                <li>Interview Questions</li>
+                <li>Searching and sorting</li>
+                <li>Searching in arrays</li>
+                <li>Searching in strings</li>
+                <li>Linear Search</li>
+                <li>Binary Search</li>
+                <li>Sorting</li>
+                <li>Various sorting techniques</li>
+                <li>Selection sort</li>
+                <li>Bubble sort</li>
+                <li>Insertion sort</li>
+                <li>Quick sort</li>
+        
             </ul>
 
-            <h2>FLOW CONTROL STATEMENTS <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Jump statements(goto, break, continue)</li>
-                <li>If statement</li>
-                <li>If else statement</li>
-                <li>Nested if else statement</li>
-                <li>If else if ladder statement</li>
-                <li>Switch case statement</li>
-                <li>Loops(for, while, do while)</li>
-            </ul>
-
-
-            <h2>POINTERS <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to pointers</li>
-                <li>Pointer expressions</li>
-                <li>Types of Pointers</li>
-                <li>Void Pointer</li>
-                <li>NULL Pointer</li>
-                <li>Wild Pointer</li>
-                <li>Dangling Pointer</li>
-                <li>Various examples of pointers</li>
-                <li>Pointer Arithmatics</li>
-                <li>Array using pointers</li>
-                <li>String using pointers</li>
-                <li>Pointers in Functions</li>
-            </ul>
-
-            <h2>ARRAY AND STRING<span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to array</li>
-                <li>One, two, multi-dimensional arrays</li>
-                <li>Various operations on array</li>
-
-                <li>Applications of array</li>
-                <li>Sorting and searching in array</li>
-                <li>Introduction to string</li>
-                <li>Various operations on strings</li>
-                <li>Applications of string</li>
-            </ul>
-
-            <h2>ENUM<span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <lVarious>Introduction to enum</li>
-                    <li>examples of enumi</li>
-            </ul>
-
-            <h2>FILE MANAGEMENT <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to file management</li>
-                <li>File opening modes</li>
-                <li>Opening and closing a file</li>
-                <li>Input output operations on file</li>
-                <li>Error handling</li>
-                <li>Command line arguments</li>
-                <li>Applications of file management</li>
-
-            </ul>
-
-            <h2>PREPROCESSOR <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Macros</li>
-                <li>File inclusions</li>
-                <li>Compiler control directives</li>
-            </ul>
-
-            <h2>FUNCTIONS <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to functions</li>
-                <li>Types of functions</li>
-                <li>Nesting of functions</li>
-                <li>Various examples of functions</li>
-                <li>Integer passing is functions</li>
-                <li>Strings passing is functions</li>
-                <li>Function returning address</li>
-                <li>Recursion</li>
-                <li>Storage classes</li>
-            </ul>
-
-            <h2>STRUCTURE <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to structure</li>
-                <li>Advantages of structure</li>
-                <li>Array of structure</li>
-                <li>Structure using pointer</li>
-                <li>Structure with functions</li>
-                <li>Applications of structure</li>
-            </ul>
-
-            <h2>UNION<span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to union</li>
-                <li>Advantages of unionWhy Need Streams</li>
-            </ul>
-
-            <h2>DYNAMIC MEMORY ALLOCATION <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to dynamic memory allocation</li>
-                <li>Advantage of dynamic memory allocation</li>
-                <li>Malloc(), calloc(),realloc(),free();</li>
-                <li>Array implementation using dynamic memory allocation</li>
-            </ul>
-
-
-        </div>
-        <div class="contentAcc">
-
-            <h4 class="mt-4">C++ Training Course</h4>
-
-            <h2>C++ Language Contents:<span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to C++ Language</li>
-                <li>Difference and Similarities between C and C++</li>
-                <li>Role Of Compilers and Assemblers</li>
-                <li>Role Of Compilers and Assemblers</li>
-                <li>Flow Control Statements</li>
-            </ul>
-
-            <h2>Oops Introduction <span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Flow Control Statements</li>
-                <li>Oops Implementation</li>
-                <li>Oops Approaches</li>
-                <li>Encapsulation</li>
-                <li>Nesting of Class(i.e. Outer Class, Inner Class, Local</li>
-                <li>Class) Polymorphism</li>
-                <li>Function Overloading</li>
-                <li>Constructor & Destructor</li>
-                <li>Operator Overloading</li>
-                <li>Function Overriding</li>
-                <li>Inheritance</li>
-                <li>Single Inheritance</li>
-                <li>Multiple Inheritance</li>
-                <li>Multilevel Inheritance</li>
-                <li>Hierarchical inheritance</li>
-                <li>Hybrid Inheritance</li>
-                <li>Need of Virtual Function</li>
-                <li>Function Overriding</li>
-                <li>Binding Types</li>
-                <li>Static Binding and Dynamic Binding</li>
-                <li>Upcasting and Downcasting</li>
-                <li>Virtual Function</li>
-                <li>Abstraction</li>
-                <li>Data Abstraction</li>
-                <li>Abstract Class</li>
-                <li>Pure Virtual Function</li>
-                <li>pointers in c++</li>
-                <li>Inline Functions</li>
-                <li>Friend function and friend class</li>
-                <li>Composition and Aggregation</li>
-                <li>Deep Copy and Shallow Copy</li>
-            </ul>
-
-            <h2>Exception Handling<span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to Exception Handling</li>
-                <li>Need of Exception Handling</li>
-                <li> Try, throw, catch</li>
-                <li> Multiple catch blocks</li>
-
-            </ul>
-
-            <h2>File Management<span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to file management</li>
-                <li>File opening modes</li>
-                <li>Opening and closing a file</li>
-                <li>Input output operations on file</li>
-                <li>Error handling</li>
-                <li>Applications of file management</li>
-            </ul>
-
-            <h2>Templates (Generic Programming):<span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>Introduction to Templates and Generic Programming</li>
-                <li>Advantages of template</li>
-                <li>Template function and Template class</li>
-
-            </ul>
-
-            <h2>Standard Template Library:<span class="down_arrow">&#8682;</span> </h2>
-
-            <ul>
-                <li>List class.</li>
-                <li>Stack class.</li>
-                <li>Queue class.</li>
-                <li>Priority Queue.</li>
-                <li>Map .</li>
-                <li>Vectors.</li>
-                <li>Algorithms .li>
-                <li>Factors.</li>
-                <li>Etc.</li>
-            </ul>
+            
         </div>
         <!-- 
         <div class="q_form">
