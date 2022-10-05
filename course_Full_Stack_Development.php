@@ -18,8 +18,8 @@
             <li><strong><a href="#What-Does-Java-Full-Stack-Developer-Do?">What Does Java Full Stack Developer Do?</a></strong></li>
             <li><strong><a href="#Skills-You-Need-To-Become-A-Full-Stack-Java-Developer">Skills You Need To Become A Full Stack Java Developer</a></strong></li>
             <li><strong><a href="#What-Are-The-Career-Opportunities-for-Java-Full-Stack-Developers?">What Are The Career Opportunities for Java Full Stack Developers?</a></strong></li>
-            <li><strong><a href="#Why-Choose-Ducat-For-Java-Full-Stack-Developer?">Why Choose Ducat For Java Full Stack Developer?</a></strong></li>
-            <li><strong><a href="#How-Ducat-Provides-Best-Placement-Assistance?">How Ducat Provides Best Placement Assistance?</a></strong></li>
+            <li><strong><a href="#Why-Choose-Groot Academy-For-Java-Full-Stack-Developer?">Why Choose Groot Academy For Java Full Stack Developer?</a></strong></li>
+            <li><strong><a href="#How-Groot Academy-Provides-Best-Placement-Assistance?">How Groot Academy Provides Best Placement Assistance?</a></strong></li>
             <li><strong><a href="#Frequently-Asked-Questions">Frequently Asked Questions (FAQ&#39;s)</a></strong></li>
             <li><strong><a href="#Java-Full-Stack-Interview-Questions">Frequently Asked Java Full Stack Interview Questions &amp; Answers</a></strong></li>
         </ul>
@@ -27,9 +27,9 @@
 
         <p style="text-align: justify;">Are you planning to become a java full stack developer?</p>
 
-        <p style="text-align: justify;">If yes then you must look for the institute which offers the best java full stack course in Noida. Ducat is one of the renowned names where they offer the best java full stacking training to the students and make them professional in the field. The institute offers training according to industry standards that help attendees to secure placements in their dream jobs at MNCs. Ducat Provides Best Java Full Stack Developer Training in Noida. Ducat is one of the most credible Java Full Stack Developer course institutes in Noida offering hands on practical knowledge and full job assistance with basic as well as the advanced level and making you professional in the field.</p>
+        <p style="text-align: justify;">If yes then you must look for the institute which offers the best java full stack course in Jaipur. Groot Academy is one of the renowned names where they offer the best java full stacking training to the students and make them professional in the field. The institute offers training according to industry standards that help attendees to secure placements in their dream jobs at MNCs. Groot Academy Provides Best Java Full Stack Developer Training in Jaipur. Groot Academy is one of the most credible Java Full Stack Developer course institutes in Jaipur offering hands on practical knowledge and full job assistance with basic as well as the advanced level and making you professional in the field.</p>
 
-        <p style="text-align: justify;">Ducat provides the Best Java Full Stack Developer Training in Noida based on industry standards that help attendees to secure placements in their dream jobs at MNCs. Ducat Provides Best Java Full Stack Developer Training in Noida. Ducat is one of the most credible Java Full Stack Developer Training institutes in Noida offering hands-on practical knowledge and full job assistance with basic as well as advanced level Java Full Stack Developer Training courses.</p>
+        <p style="text-align: justify;">Groot Academy provides the Best Java Full Stack Developer Training in Jaipur based on industry standards that help attendees to secure placements in their dream jobs at MNCs. Groot Academy Provides Best Java Full Stack Developer Training in Jaipur. Groot Academy is one of the most credible Java Full Stack Developer Training institutes in Jaipur offering hands-on practical knowledge and full job assistance with basic as well as advanced level Java Full Stack Developer Training courses.</p>
 
         <p style="text-align: justify;"><img alt="Java Full Stack Developer" src="https://images.plurk.com/1Ntbf4wt01nEB16OL1veUg.jpg" style="width: 825px; height: 440px;" /></p>
 
@@ -98,10 +98,10 @@
             <li>Higher Salary due to the wider range of skills.</li>
         </ul>
 
-        <h4 id="Why-Choose-Ducat-For-Java-Full-Stack-Developer?">Why Choose Ducat For Java Full Stack Developer?</h4>
+        <h4 id="Why-Choose-Groot Academy-For-Java-Full-Stack-Developer?">Why Choose Groot Academy For Java Full Stack Developer?</h4>
 
         <ul style="list-style-type:disc;">
-            <li>Ducat is a renowned institute for learning Artificial Intelligence and offering a course for more than 20+ years.</li>
+            <li>Groot Academy is a renowned institute for learning Artificial Intelligence and offering a course for more than 20+ years.</li>
             <li>It has well-experienced and trained teachers who have years of experience.</li>
             <li>Training programs are based on the industry live projects and meet the current industry standard.</li>
             <li>Students can get the opportunity to choose weekend or weekday classes with the option of online and offline classes.</li>
@@ -113,13 +113,13 @@
             <li>Easy payment options according to your preference such as cash, cheque, credit, debit, and internet banking.</li>
         </ul>
 
-        <h4 id="How-Ducat-Provides-Best-Placement-Assistance?">How Ducat Provides Best Placement Assistance?</h4>
+        <h4 id="How-Groot Academy-Provides-Best-Placement-Assistance?">How Groot Academy Provides Best Placement Assistance?</h4>
 
         <ul style="list-style-type:disc;">
-            <li>Ducat is the best institute for Java Full Stack Certification Training in Noida is providing placement assistance to every student.</li>
+            <li>Groot Academy is the best institute for Java Full Stack Certification Training in Jaipur is providing placement assistance to every student.</li>
             <li>We also teach students how to build their Resumes.</li>
             <li>Our Placement cell helps every student to get a job in MNCs like Tech Mahindra, Wipro, TCS, Accenture, etc.</li>
-            <li>Internships are also available in Ducat.</li>
+            <li>Internships are also available in Groot Academy.</li>
         </ul>
 
         <h4>&nbsp;</h4>
@@ -148,11 +148,11 @@
 
         <h5 style="font-size: 21px;">Is there any job guarantee after completion of the java full stack developer course?</h5>
 
-        <p>Yes, Ducat offers a job guarantee after completion of the java full stack developer course.</p>
+        <p>Yes, Groot Academy offers a job guarantee after completion of the java full stack developer course.</p>
 
         <h5 style="font-size: 21px;">How is the placement teamwork?</h5>
 
-        <p>Ducat has a proper placement cell which helps the students to get their dream job.</p>
+        <p>Groot Academy has a proper placement cell which helps the students to get their dream job.</p>
 
         <h5 style="font-size: 21px;">Do I get a certificate at the end of the Java Full Stack Developer course?</h5>
 
@@ -164,7 +164,7 @@
 
         <h5 style="font-size: 21px;">Is the Java Full Stack Developer Program 100% online?</h5>
 
-        <p>No, it is not only an online program. Ducat is the institute which offer offline and online classes to the students.</p>
+        <p>No, it is not only an online program. Groot Academy is the institute which offer offline and online classes to the students.</p>
     </div>
 
     <div class="cr_query">
