@@ -57,13 +57,13 @@ We provide all kinds of industrial training in computer science technologies</p>
                             </ul>
                         </div>
                         <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
-                            <h3 class="widget-title">Our Courses</h3>
+                            <h3 class="widget-title">IT Services</h3>
                             <ul class="site-map">
-                                <li><a href="https://grootsoftware.com/software-development.php"> software development</a></li>
-                                <li><a href="https://grootsoftware.com/web-development-services.php">web development </a></li>
-                                <li><a href="https://grootsoftware.com/analytic-solutions.php">Analytic solutions</a></li>
-                                <li><a href="https://grootsoftware.com/cloud-and-devOps-services.php">cloud and devops</a></li>
-                                <li><a href="https://grootsoftware.com/product-design-services.php">product design</a></li>
+                                <li><a href="https://grootsoftware.com/software-development.php"> Software Development</a></li>
+                                <li><a href="https://grootsoftware.com/web-development-services.php">Web Development </a></li>
+                                <li><a href="https://grootsoftware.com/analytic-solutions.php">Analytic Solutions</a></li>
+                                <li><a href="https://grootsoftware.com/cloud-and-devOps-services.php">Cloud and Devops</a></li>
+                                <li><a href="https://grootsoftware.com/product-design-services.php">Product Design</a></li>
                             </ul>
                         </div>
                     </div>
