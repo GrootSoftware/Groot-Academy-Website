@@ -283,13 +283,13 @@
                                     <img src="assets/images/services/style5/1.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Front End Development </a></h2>
+                                    <h2 class="title"><a href="course_Front_End_Development_React_JS.php">Front End Development </a></h2>
                                     <p class="desc">
                                         Interested in designing part? How the website or application look? UI/UX? 
                                         Then this advanced development course is for you.
                                     </p>
                                     <div class="services-btn2">
-                                        <a href="web-development.php">Read More</a>
+                                        <a href="course_Front_End_Development_React_JS.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -300,13 +300,13 @@
                                     <img src="assets/images/services/style5/2.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Full Stack Development</a></h2>
+                                    <h2 class="title"><a href="course_Full_Stack_Development.php">Full Stack Development</a></h2>
                                     <p class="desc">
                                         Want to be the Know-it-all person at the IT company? 
                                         Full stack developer is what you want to be. Here you go.
                                     </p>
                                     <div class="services-btn2">
-                                        <a href="web-development.php">Read More</a>
+                                        <a href="course_Full_Stack_Development.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -317,13 +317,13 @@
                                     <img src="assets/images/services/style5/3.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Back End Development</a></h2>
+                                    <h2 class="title"><a href="course_Back_End_Development_with_Java.php">Back End Development</a></h2>
                                     <p class="desc">
                                         Enjoy playing with Sql Queries or managing databases? 
                                         Backend development is the Behind-the-Scenes of websites and apps.
                                     </p>
                                     <div class="services-btn2">
-                                        <a href="web-development.php">Read More</a>
+                                        <a href="course_Back_End_Development_with_Java.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -334,13 +334,13 @@
                                     <img src="assets/images/services/style5/4.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Data Structure and algorithms</a></h2>
+                                    <h2 class="title"><a href="course_Data_Structure_and_algorithms.php">Data Structure and algorithms</a></h2>
                                     <p class="desc">
                                     Explore Algorithms and data structures for something that’s beyond coding. 
 Algos play a crucial role in the digital development field and so could you if you know them
          </p>
                                     <div class="services-btn2">
-                                        <a href="web-development.php">Read More</a>
+                                        <a href="course_Data_Structure_and_algorithms.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -351,13 +351,13 @@ Algos play a crucial role in the digital development field and so could you if y
                                     <img src="assets/images/services/style5/5.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">C/C++</a></h2>
+                                    <h2 class="title"><a href="course_CC++.php">C/C++</a></h2>
                                     <p class="desc">
                                     Sounds like the basics right? They indeed are the fundamentals of programming. 
 But don't just judge a book by its cover. Wait until you explore the applications of C and C++.
    </p>
                                     <div class="services-btn2">
-                                        <a href="web-development.php">Read More</a>
+                                        <a href="course_CC++.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -368,13 +368,13 @@ But don't just judge a book by its cover. Wait until you explore the application
                                     <img src="assets/images/services/style5/6.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Advance Java</a></h2>
+                                    <h2 class="title"><a href="course_Advance_Java.php">Advance Java</a></h2>
                                     <p class="desc">
                                     They say, “if you can code in Java, you can learn to code in any other language”.
 Advanced java will help you explore the programming world closely while you will be creating some exciting web projects in java.
      </p>
                                     <div class="services-btn2">
-                                        <a href="web-development.php">Read More</a>
+                                        <a href="course_Advance_Java.php">Read More</a>
                                     </div>
                                 </div>
                             </div>
