@@ -5,26 +5,20 @@
 <div class="course_detail">
     <div class="cr_detail_sec">
 
-        <h3>JAVA EXPERT TRAINING</h3>
+        <h3 class="red-heading"><strong><span itemprop="itemreviewed">ANGULAR TRAINING IN Jaipur | ANGULARJS TRAINING&nbsp;INSTITUTE IN Jaipur</span></strong></h3>
+        <span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="https://1.bp.blogspot.com/-NGZOUDhazes/XiggetbcFJI/AAAAAAAAADg/__9gzm22fzowvVCl0n7FXO01teE74ZrswCLcBGAsYHQ/s1600/star%2Brating%2B002.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.7</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">3265</span> Votes
 
-        <h4>Open the Doors of Opportunity by Becoming an Expert in Java</h4>
+        <p style="text-align: justify;">Are you Looking Best Institute for <strong>Angular JS Training Course in Jaipur?</strong> groot academy offers Angularjs Training classes in Jaipur with vital tasks by the professional trainers in Jaipur Sector 16. Our AngularJS training program in Jaipur is designed explicitly for Students, UG, Graduates, Professionals, and Freelancers. groot academy India provides end to end learning on Angular Domain with deeper dives for making a winning career for every profile.</p>
 
-        <p>If you are looking to become an expert web application developer or an in-demand software programmer, then <strong>Java Expert Training</strong> is the language to learn. Java is an Object Oriented Programming language which requires sharp logical thinking abilities. The trainers at DUCAT have more than a decade of experience in developing software solutions using Java. Ducat has an edge as a <strong>Best Java Expert Training Institute in Noida</strong> because we have global alliances which enable us to create courses based on the current industry requirements. The mentors at Ducat guide each student in mastering the basic to advanced concepts of Java. We aim at making every student industry ready and not just learn theoretical knowledge.</p>
+        <p><strong>Angular </strong> is an open-source framework created and maintained by the developers. It is utilized by the developers to develop the net applications. <strong>Angular Training Courses in Delhi NCR</strong> grants not only the tools which are required but also design patterns to build a project in a conceivable way. When an Angular application is designed properly, you don&rsquo;t end up with twisted classes and methods that are strong to modify and even stronger to test. The code is organized conveniently and you will not need to spend much time in order to understand what is going on. And there are many more things that Angular can offer us! If you will opt for <strong>Best IT &amp; Technical Training in Angular</strong>.</p>
 
-        <h4>Why should you learn Java?</h4>
+        <p>Angular is constructed with Typescript, which in turn relies on JS ES6. You do not need to learn a totally new language, but you still will learn features like static typing, interfaces, classes, namespaces, decorators etc. <strong>Angular Training</strong> is meant to be thoroughly tested and also supports both unit and end-to-end testing with tools like Jasmine and Protractor. Angular is mobile and desktop-ready tool, meaning we have one framework for multiple platforms for both mobile &amp; desktop. Angular is earnestly maintained and has a very big community and ecosystem. You will be learning lots of materials on this framework as well as many useful third-party tools by enrolling yourself in our <strong>Best Angular Course</strong>. With <strong>Best Angular Institute</strong>, you already have lots of tools to start creating the application right away. You have directives to give HTML elements a type of dynamic behavior. You can start up the forms using Form Control and can introduce various validation rules which will be required. You will be able to easily send asynchronous HTTP requests of various types and you will be able to set up routing with little problem. If you want to get <strong>Angular Training in Jaipur</strong> than groot academy which is <strong>Best IT Training Institute</strong> will provide you real-time training in IT courses. Because we have real-time working trainers who have more experience in this particular field and are more qualified in their field.</p>
 
-        <p><strong>Java Training</strong> is the most widely used programming language with a wide range of application. Java was released in the year 1995 by Sun Microsystems. It has been here for more than twenty years. It is used for the development of the Internet of Things, APIs, e-commerce websites, financial trading platforms, scientific applications and a lot more. It is Java that powers Android. <strong>Java Professional Training</strong> is present in every aspect of the digital environment. Learning a language from <strong>Java Professionals</strong> makes it easy to learn other languages if you want to broaden your horizons.</p>
+        <p><strong>groot academy</strong> is one of the <strong>Best Angular Training Institute</strong> we have in India. We have branches across major Indian cities. We also offer 100 % placement assistance to our students at every stage of their life. The institute has maintained its brand value and name from the past. It Offers <strong>Best Angular Training course in Jaipur.</strong></p>
 
-        <p>You may have no background in programming but you can still learn Java and can become <strong>Expert in Java Training</strong>. Ducat is the <strong>Best Java Professional Training Institute in Noida</strong> as it gives you a hands-on learning experience in creating various, in-demand solutions using Java.</p>
+        <h4><strong>Why To Enroll In Our <span itemprop="itemreviewed">ANGULAR</span>&nbsp;Training Course in Jaipur?</strong></h4>
 
-        <h4>Jobs for Java Programmers</h4>
-
-        <p><strong>Java Expert</strong> developers earn handsome money. As mentioned earlier there is a huge range of possibility for Java programmers. They are in high demand not only in India but in other countries like U.S. and U.K. as well. Some of the career options for Java programmers are Software Developer, Web Developer, Application Developer, Web Programmer, EJB Programmer, Back-End Developer, Big Data Developer, Android Developer, Embedded Devices Developer and a lot more. From mobile phones to supercomputers, there are vast options for usage and application of Java. Become a Java Professional by learning from the <strong>Best Java Training Institute</strong>.</p>
-
-        <h4>Training and Placement</h4>
-
-
-        <p>Our trainers are <strong>Java Experts &amp; Java Professionals</strong> with over (X) years of practical experience. It doesn&rsquo;t matter if you are a beginner or want to improve your existing knowledge of Java. Our trainers will mentor you to become the best in your field. <strong>Ducat Noida</strong> has been a leading training institute for the past twenty years. We prepare you for interviews and provide 100% assistance in job placement with leading tech companies of India. Our ability to provide practical training to our students has made us the <strong>Best Java training institute in Noida, Ghaziabad, Gurgaon, Gr. Noida, Faridabad</strong>.</p>
+        <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our <strong><span itemprop="itemreviewed">ANGULAR&nbsp;</span></strong>Trainees are working across the nation. We at groot academy India, No#1 <strong><span itemprop="itemreviewed">ANGULAR</span></strong>&nbsp;Course in Jaipur with 100% Placement.&nbsp;Certified Trainers with Over 10,000 Students Trained in <strong><span itemprop="itemreviewed">ANGULAR</span> Course in Jaipur.</strong></p>
     </div>
 
 
@@ -52,7 +46,7 @@
             </form>
             <!- <textarea type="text" class="form-control" placeholder="Query Here" > -->
 </div>
-</div> 
+</div>
 
 </div>
 
@@ -182,42 +176,42 @@
 
         <div class="contentAcc">
 
-        
-        <h2>VALIDATIONS <span class="down_arrow">&#8682;</span> </h2>
 
-<ul>
-    <li>Template Driven</li>
-    <li>Reactive Form</li>
-    <li>Custom Validators</li>
+            <h2>VALIDATIONS <span class="down_arrow">&#8682;</span> </h2>
 
-</ul>
+            <ul>
+                <li>Template Driven</li>
+                <li>Reactive Form</li>
+                <li>Custom Validators</li>
 
-<h2>ASYNCHRONOUS OPERATIONS<span class="down_arrow">&#8682;</span> </h2>
+            </ul>
 
-<ul>
-    <li>Observable vs Promise</li>
-    <li>Network Call</li>
-    <li>HTTP Request | Response</li>
+            <h2>ASYNCHRONOUS OPERATIONS<span class="down_arrow">&#8682;</span> </h2>
 
-</ul>
+            <ul>
+                <li>Observable vs Promise</li>
+                <li>Network Call</li>
+                <li>HTTP Request | Response</li>
 
-<h2>SERVICES<span class="down_arrow">&#8682;</span> </h2>
+            </ul>
 
-<ul>
-    <li>Introduction to Services</li>
-    <li>Building a Service</li>
-    <li>Dependency Injections</li>
-    <li>Injectors and Providers</li>
+            <h2>SERVICES<span class="down_arrow">&#8682;</span> </h2>
 
-</ul>
+            <ul>
+                <li>Introduction to Services</li>
+                <li>Building a Service</li>
+                <li>Dependency Injections</li>
+                <li>Injectors and Providers</li>
 
-<h2>LIFECYCLE HOOKS <span class="down_arrow">&#8682;</span> </h2>
+            </ul>
 
-<ul>
-    <li>Component LifeCycle</li>
-    <li>All LifeCycle Hooks</li>
+            <h2>LIFECYCLE HOOKS <span class="down_arrow">&#8682;</span> </h2>
 
-</ul>
+            <ul>
+                <li>Component LifeCycle</li>
+                <li>All LifeCycle Hooks</li>
+
+            </ul>
 
             <h2>LOCAL DATA STORAGE <span class="down_arrow">&#8682;</span> </h2>
 
@@ -251,12 +245,12 @@
             <ul>
                 <li>Introduction to Testing</li>
                 <li>Unit Testing with Karma and Jasmine</li>
-               
+
             </ul>
 
             <h2>LAZY LOADING<span class="down_arrow">&#8682;</span> </h2>
 
-            
+
 
             <h2>UI COMPONENTS <span class="down_arrow">&#8682;</span> </h2>
 
@@ -274,7 +268,7 @@
                 <li>JWT Token</li>
                 <li>File Upload</li>
                 <li>Many More</li>
-                
+
             </ul>
 
             <h2>Angular ApplicationDeployment <span class="down_arrow">&#8682;</span> </h2>
@@ -284,7 +278,7 @@
                 <li>Deploy in Heroku</li>
             </ul>
 
-          
+
         </div>
 
 

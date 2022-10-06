@@ -2,7 +2,7 @@
 *
 * -----------------------------------------------------------------------------
 *
-* Template : Educavo - Education HTML Template
+* Template : Educavo - Educateion HTML Template
 * Author : rs-theme
 * Author URI : http://www.rstheme.com/
 *
