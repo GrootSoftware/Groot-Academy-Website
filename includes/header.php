@@ -129,7 +129,7 @@
              
              
               <li>
-                <a href="courses.php">Courses</a>
+                <a href="Courses_By_Groot_Academy.php">Courses</a>
               </li>
               <li>
                 <a href="enroll.php">Enroll Now</a>
