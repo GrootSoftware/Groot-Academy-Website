@@ -5,7 +5,7 @@
 <div class="course_detail">
     <div class="cr_detail_sec">
 
-        <h3><strong><span itemprop="itemreviewed">Become Software Engineer After 12th in jaipur  | Become Programmer/Coder After 12th in jaipur&nbsp;</span></strong></h3>
+        <h3><strong><span itemprop="itemreviewed">Learn Front End Development&nbsp;</span></strong></h3>
 
         <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.9 Star Rating: Very Good" src="https://1.bp.blogspot.com/-NGZOUDhazes/XiggetbcFJI/AAAAAAAAADg/__9gzm22fzowvVCl0n7FXO01teE74ZrswCLcBGAsYHQ/s1600/star%2Brating%2B002.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.9</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">4128</span> Votes.</p>
 

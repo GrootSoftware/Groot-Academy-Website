@@ -50,6 +50,42 @@
             </h3>
         </div>
         <div class="row">
+        <div class="col-lg-4">
+                <a href="course_Spring_Boot.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/6.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Software Engineering After 10th</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_Spring_Boot.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/1.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Software Engineering After 12th</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4">
+                <a href="course_Spring_Boot.php">
+                    <div class="services-item">
+                        <div class="services-icon">
+                            <img src="assets/images/services/style5/2.png" alt="">
+                        </div>
+                        <div class="services-content">
+                            <h3 class="title">Our Internship Programmes</h3>
+                        </div>
+                    </div>
+                </a>
+            </div>
             <div class="col-lg-4 mb-20">
                 <a href="course_Front_End_Development_React_JS.php">
                     <div class="services-item">
@@ -194,44 +230,6 @@
                     </div>
                 </a>
             </div>
-            <div class="col-lg-4">
-                <a href="course_Spring_Boot.php">
-                    <div class="services-item">
-                        <div class="services-icon">
-                            <img src="assets/images/services/style5/6.png" alt="">
-                        </div>
-                        <div class="services-content">
-                            <h3 class="title">Software Engineering After 10th</h3>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4">
-                <a href="course_Spring_Boot.php">
-                    <div class="services-item">
-                        <div class="services-icon">
-                            <img src="assets/images/services/style5/1.png" alt="">
-                        </div>
-                        <div class="services-content">
-                            <h3 class="title">Software Engineering After 12th</h3>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4">
-                <a href="course_Spring_Boot.php">
-                    <div class="services-item">
-                        <div class="services-icon">
-                            <img src="assets/images/services/style5/2.png" alt="">
-                        </div>
-                        <div class="services-content">
-                            <h3 class="title">Our Internship Programmes</h3>
-                        </div>
-                    </div>
-                </a>
-            </div>
-
-
         </div>
     </div>
 </div>
