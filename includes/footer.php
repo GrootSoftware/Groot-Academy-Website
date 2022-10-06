@@ -56,14 +56,15 @@ We provide all kinds of industrial training in computer science technologies</p>
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-lg-3 col-md-12 col-sm-12">
-                            <h3 class="widget-title">Newsletter</h3>
-                            <p class="widget-desc">We denounce with righteous and in and dislike men who are so beguiled and demo realized.</p>
-                            <p>
-                                <input type="email" name="EMAIL" placeholder="Your email address" required="">
-                                <em class="paper-plane"><input type="submit" value="Sign up"></em>
-                                <i class="flaticon-send"></i>
-                            </p>
+                        <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
+                            <h3 class="widget-title">Our Courses</h3>
+                            <ul class="site-map">
+                                <li><a href="https://grootsoftware.com/software-development.php"> software development</a></li>
+                                <li><a href="https://grootsoftware.com/web-development-services.php">web development </a></li>
+                                <li><a href="https://grootsoftware.com/analytic-solutions.php">Analytic solutions</a></li>
+                                <li><a href="https://grootsoftware.com/cloud-and-devOps-services.php">cloud and devops</a></li>
+                                <li><a href="https://grootsoftware.com/product-design-services.php">product design</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
