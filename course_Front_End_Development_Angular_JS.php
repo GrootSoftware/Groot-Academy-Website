@@ -6,7 +6,7 @@
     <div class="cr_detail_sec">
 
         <h3 class="red-heading"><strong><span itemprop="itemreviewed">ANGULAR TRAINING IN Jaipur | ANGULARJS TRAINING&nbsp;INSTITUTE IN Jaipur</span></strong></h3>
-        <span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="https://1.bp.blogspot.com/-NGZOUDhazes/XiggetbcFJI/AAAAAAAAADg/__9gzm22fzowvVCl0n7FXO01teE74ZrswCLcBGAsYHQ/s1600/star%2Brating%2B002.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.7</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">3265</span> Votes
+        <span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.7</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">3265</span> Votes
 
         <p style="text-align: justify;">Are you Looking Best Institute for <strong>Angular JS Training Course in Jaipur?</strong> groot academy offers Angularjs Training classes in Jaipur with vital tasks by the professional trainers in Jaipur Sector 16. Our AngularJS training program in Jaipur is designed explicitly for Students, UG, Graduates, Professionals, and Freelancers. groot academy India provides end to end learning on Angular Domain with deeper dives for making a winning career for every profile.</p>
 

@@ -7,7 +7,7 @@
 
         <h3><strong>Full Stack With Node js Training In Jaipur</strong></h3>
 
-        <p><img alt="4.5 Star Rating: Very Good" src="https://1.bp.blogspot.com/-NGZOUDhazes/XiggetbcFJI/AAAAAAAAADg/__9gzm22fzowvVCl0n7FXO01teE74ZrswCLcBGAsYHQ/s1600/star%2Brating%2B002.jpg" /> 4.7 out of 5 based on 3812 Votes.</p>
+        <p><img alt="4.5 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" /> 4.7 out of 5 based on 3812 Votes.</p>
 
         <p>Are you Looking for the <strong>Best Institute for Full Stack With Node js training in Jaipur</strong>? GROOT ACADEMY offers Full Stack With Node js&nbsp;training classes with live project by expert trainer in Jaipur. Our Full Stack With Node js training program in Jaipur is specially designed for Under-Graduates (UG), Graduates, working professional and also for Freelancers. We provide end to end learning on Full Stack With Node js&nbsp;Domain with deeper dives for creating a winning career for every profile.</p>
 
