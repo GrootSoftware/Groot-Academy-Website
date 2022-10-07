@@ -7,7 +7,7 @@
 
         <h3 class="red-heading"><strong><span itemprop="itemreviewed">Best C Language Training in&nbsp;jaipur |&nbsp;C Language Training Institute in jaipur</span></strong></h3>
 
-        <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="https://1.bp.blogspot.com/-NGZOUDhazes/XiggetbcFJI/AAAAAAAAADg/__9gzm22fzowvVCl0n7FXO01teE74ZrswCLcBGAsYHQ/s1600/star%2Brating%2B002.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.5</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">1699</span> Votes.</p>
+        <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.5</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">1699</span> Votes.</p>
 
         <p>Are you Looking for the <strong>Best Institute for <span itemprop="itemreviewed">C Language</span>&nbsp;Training Course in jaipur</strong>? Groot academy offers <span itemprop="itemreviewed">C Language</span> training classes with live project by expert trainer in jaipur. Our <span itemprop="itemreviewed">C Language</span> training program in jaipur is specially designed for Under-Graduates (UG), Graduates, working professional and also for Freelancers. We provide end to end learning on <span itemprop="itemreviewed">C Language</span>&nbsp;Domain with deeper dives for creating a winning career for every profile.</p>
 
@@ -22,7 +22,7 @@
 
         <h3 class="red-heading"><strong><span itemprop="itemreviewed">Best C++ Training in&nbsp;jaipur |&nbsp;C++&nbsp;Programming Institute in jaipur</span></strong></h3>
 
-        <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="https://1.bp.blogspot.com/-NGZOUDhazes/XiggetbcFJI/AAAAAAAAADg/__9gzm22fzowvVCl0n7FXO01teE74ZrswCLcBGAsYHQ/s1600/star%2Brating%2B002.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.5</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">1699</span> Votes.</p>
+        <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.5</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">1699</span> Votes.</p>
 
         <p>Are you Looking for the <strong>Best Institute for <span itemprop="itemreviewed">C++</span>&nbsp;Training Course in jaipur</strong>? Groot academy offers <span itemprop="itemreviewed">C++ Programming</span>&nbsp;classes with live project by expert trainer in jaipur. Our <span itemprop="itemreviewed">C++</span>&nbsp;training program in jaipur is specially designed for Under-Graduates (UG), Graduates, working professional and also for Freelancers. We provide end to end learning on <span itemprop="itemreviewed">C++</span>&nbsp;Domain with deeper dives for creating a winning career for every profile.</p>
 

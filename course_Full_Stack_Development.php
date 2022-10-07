@@ -7,7 +7,7 @@
 
         <h3 class="red-heading"><span itemprop="itemreviewed">JAVA Full Stack Developer | Full Stack Developer Course | JAVA Full Stack Developer Training</span></h3>
 
-        <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="https://1.bp.blogspot.com/-NGZOUDhazes/XiggetbcFJI/AAAAAAAAADg/__9gzm22fzowvVCl0n7FXO01teE74ZrswCLcBGAsYHQ/s1600/star%2Brating%2B002.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.9</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">4215</span> Votes.</p>
+        <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.9</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">4215</span> Votes.</p>
 
       
         <h5 style="font-size: 21px;">Table of Contents</h5>

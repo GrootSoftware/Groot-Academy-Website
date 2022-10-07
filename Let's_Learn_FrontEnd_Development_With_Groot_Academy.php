@@ -7,7 +7,7 @@
 
         <h3><strong><span itemprop="itemreviewed">Learn Back End Development&nbsp;</span></strong></h3>
 
-        <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.9 Star Rating: Very Good" src="https://1.bp.blogspot.com/-NGZOUDhazes/XiggetbcFJI/AAAAAAAAADg/__9gzm22fzowvVCl0n7FXO01teE74ZrswCLcBGAsYHQ/s1600/star%2Brating%2B002.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.9</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">4128</span> Votes.</p>
+        <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.9 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.9</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">4128</span> Votes.</p>
 
         <p style="text-align: justify;">Are you Looking Best institute for <strong>React js&nbsp;Training Course in Noida</strong>? DUCAT offers React Training classes with live project by expert trainer in Noida Sector 16A. Our <strong>React JavaScript&nbsp;training program&nbsp;in Noida</strong> is specially designed for Students, Under-Graduates, Graduates, Working Professionals and Freelancers. We provide end to end learning on React Domain with deeper dives for creating a winning career for every profile.</p>
 

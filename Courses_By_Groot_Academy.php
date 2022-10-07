@@ -51,7 +51,7 @@
         </div>
         <div class="row">
         <div class="col-lg-4">
-                <a href="course_Spring_Boot.php">
+                <a href="Become_Software_Engineer_After_10th.php">
                     <div class="services-item">
                         <div class="services-icon">
                             <img src="assets/images/services/style5/6.png" alt="">
@@ -63,7 +63,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="course_Spring_Boot.php">
+                <a href="Become_Software_Engineer_After_12th.php">
                     <div class="services-item">
                         <div class="services-icon">
                             <img src="assets/images/services/style5/1.png" alt="">
@@ -75,7 +75,7 @@
                 </a>
             </div>
             <div class="col-lg-4">
-                <a href="course_Spring_Boot.php">
+                <a href="Our_Internship_Programmes.php">
                     <div class="services-item">
                         <div class="services-icon">
                             <img src="assets/images/services/style5/2.png" alt="">
