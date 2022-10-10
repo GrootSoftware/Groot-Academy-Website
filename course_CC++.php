@@ -5,34 +5,30 @@
 <div class="course_detail">
     <div class="cr_detail_sec">
 
-        <h3 class="red-heading"><strong><span itemprop="itemreviewed">Best C Language Training in&nbsp;jaipur |&nbsp;C Language Training Institute in jaipur</span></strong></h3>
+
+        <h3 class="red-heading">C/C++ EXPERT TRAINING</h3>
+
 
         <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.5</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">1699</span> Votes.</p>
+        <h4>Open the Doors of Opportunity by Becoming a Expert C/C++ Programmer</h4>
+        <p>C++ is a general-purpose programming language. This language is around 40 years old and has been a part of many software problems and projects. C++ language is preferred to make high-performance software and is among the top programming languages. C++ is considered as a foundation language for many languages. It is one of the essential languages that you must know if you are interested in computer science. There is a very high chance that every other programmer or software developer who is doing great in his life is familiar with the concepts and fundamentals of C++. </p>
 
-        <p>Are you Looking for the <strong>Best Institute for <span itemprop="itemreviewed">C Language</span>&nbsp;Training Course in jaipur</strong>? Groot academy offers <span itemprop="itemreviewed">C Language</span> training classes with live project by expert trainer in jaipur. Our <span itemprop="itemreviewed">C Language</span> training program in jaipur is specially designed for Under-Graduates (UG), Graduates, working professional and also for Freelancers. We provide end to end learning on <span itemprop="itemreviewed">C Language</span>&nbsp;Domain with deeper dives for creating a winning career for every profile.</p>
+        <h4>Why should you learn C/C++ Programming</h4>
 
-        <h4><strong>Why To Enroll In Our <span itemprop="itemreviewed">C Language</span>&nbsp;Training Course in jaipur?</strong></h4>
+        <p>C++ is an advanced language that supports various programming methods like functional, procedural, and object-oriented programming. It is a fast language; its compile-time and execution time is faster than other programming languages. Many applications and software that you use or go through in your daily lives are developed in C++. For example, Spotify, the popular music streaming application, has its backend code written in C++. You all know Youtube, C++ is used in building YouTube video processing functions. The Amazon application was also written in C++, however, there are changes over the years and more software like these are developed using C++.
+            <li>Helps You in Learning Other Programming Languages </li>
+            <li>C++ is an Efficient and Fast Language</li>
+            <li>C++ has Abundant Library Support </li>
+            <li>Suitable for Big Projects</li>
+        </p>
 
-        <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our <span itemprop="itemreviewed">C Language</span> Trainees are working across the nation. We at Groot academy India, No#1 <span itemprop="itemreviewed">C Language</span>&nbsp;Course in<strong> </strong><span itemprop="itemreviewed">jaipur</span> with 100% Placement.</p>
+        <h4>Jobs for C/C++ Programmer</h4>
+        
 
-        <h4><strong>What Our Students Will Get During <span itemprop="itemreviewed">C Language&nbsp;</span>Training Course?</strong></h4>
-
-        <p>Get dedicated student support, career services, industry expert mentors and real world projects. Career Counselling. Timely Doubt Resolution. 50% Salary Hike, Career Counselling Case Studies + Tools + Certificate.</p>
+        <p>There are many different kinds of jobs out there that require C++ language. It is a versatile language, so it remains in high demand amongst professionals, such as software developers, game developers, C++ analysts and backend developers, etc. As per the TIOBE index of 2022, C++ lies at 4th position in the world’s most popular language. The career or job opportunities for C++ programmers are enormous because C++ is an old language, and a lot of code is already written in this language.</p>
 
 
-        <h3 class="red-heading"><strong><span itemprop="itemreviewed">Best C++ Training in&nbsp;jaipur |&nbsp;C++&nbsp;Programming Institute in jaipur</span></strong></h3>
-
-        <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.5</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">1699</span> Votes.</p>
-
-        <p>Are you Looking for the <strong>Best Institute for <span itemprop="itemreviewed">C++</span>&nbsp;Training Course in jaipur</strong>? Groot academy offers <span itemprop="itemreviewed">C++ Programming</span>&nbsp;classes with live project by expert trainer in jaipur. Our <span itemprop="itemreviewed">C++</span>&nbsp;training program in jaipur is specially designed for Under-Graduates (UG), Graduates, working professional and also for Freelancers. We provide end to end learning on <span itemprop="itemreviewed">C++</span>&nbsp;Domain with deeper dives for creating a winning career for every profile.</p>
-
-        <h4><strong>Why To Enroll In Our <span itemprop="itemreviewed">C++</span>&nbsp;Training Course in jaipur?</strong></h4>
-
-        <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our <span itemprop="itemreviewed">C++</span>&nbsp;Trainees are working across the nation. We at Groot academy India, No#1 <span itemprop="itemreviewed">C++ Programming</span>&nbsp;Course in<strong> </strong><span itemprop="itemreviewed">jaipur</span> with 100% Placement.</p>
-
-        <h4><strong>What Our Students Will Get During <span itemprop="itemreviewed">C++ Programming&nbsp;</span>Course?</strong></h4>
-
-        <p>Get dedicated student support, career services, industry expert mentors and real world projects. Career Counselling. Timely Doubt Resolution. 50% Salary Hike, Career Counselling Case Studies + Tools + Certificate.</p>
+       
 
     </div>
 
