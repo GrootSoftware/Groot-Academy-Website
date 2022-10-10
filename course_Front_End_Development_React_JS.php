@@ -9,13 +9,30 @@
 
         <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.9 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.9</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">4128</span> Votes.</p>
 
-        <p style="text-align: justify;">Are you Looking Best institute for <strong>React js&nbsp;Training Course in Noida</strong>? DUCAT offers React Training classes with live project by expert trainer in Noida Sector 16A. Our <strong>React JavaScript&nbsp;training program&nbsp;in Noida</strong> is specially designed for Students, Under-Graduates, Graduates, Working Professionals and Freelancers. We provide end to end learning on React Domain with deeper dives for creating a winning career for every profile.</p>
 
-        <h4>Why To Enroll In Our React Js Training Course in Noida?</h4>
 
-        <p style="text-align: justify;">We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our React Js Trainees are working across the nation. We at Ducat India, No#1 React Js&nbsp; Course in Noida with 100% Placement . 40+ Modules, 3 Months Course. Certified Trainers with Over 10,000 Students Trained in <strong>React Js&nbsp;Course in Noida.</strong></p>
+        <h4>Open the Doors of Opportunity by Becoming an Expert REACT JS Programmer</h4>
 
-        <p style="text-align: justify;">React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called &ldquo;components&rdquo;.All these concepts and a lot more than this ,you will get to learn in React.js Training. React is a front-end library developed by Facebook. It is used for handling the view layer for web and mobile apps. ReactJS allows us to create reusable UI components. It is currently one of the most popular JavaScript libraries and has a strong foundation and large community behind it. Get certified In react.js and upgrade your skills in becoming a full stack developer .</p>
+        <p style="text-align: justify;">If you're exploring front-end development as a career, then you've probably heard that React is a must-have skill. In a nutshell, React is a JavaScript library used to build user interfaces (UIs) for websites and applications. JavaScript libraries like React contain pre-written code that can be used to implement common JavaScript functions. React is especially useful for single-page applications. If you're on Facebook, then you've interacted with React. In fact, React was created by a Facebook engineer and is still maintained by Facebook today.</strong></p>
+        <h4>Why should you learn REACT JS </h4>
+        <p style="text-align: justify;">Since most of the world went digital in 2020, employers around the globe have been looking for talented React developers. Unfortunately, there simply aren't enough React developers to keep up with the demand — which means that companies are willing to pay more for developers who are familiar with the library. Though it's only been around since 2011, React has become extremely popular. Last year, it was the second most popular library in Stack Overflow's developer survey.
+
+            <li>React Native makes app development easier</li>
+            <li>The React community is huge and amazing</li>
+            <li>React is used by huge organizations</li>
+            <li>React doesn't take long to learn</li>
+        </p>
+        <h4>Jobs for REACT JS Programmers</h4>
+        <p style="text-align: justify;">Just look at the number of REACT JS programmers and job openings on Glassdoor and LinkedIn. Those jobs you will get as a React developer in any of those companies will pay you a high salary. React is at the forefront of our field right now. That’s because JavaScript is flexible, and working in it allows you to break down the silos between front-end and back-end, freeing you up to work across both.
+            But more importantly, everyone is looking to JavaScript and React for the future of web applications. It is worth investing your time to learn ReactJS. Learning React now will future-proof your career and increase your earning power.
+        </p>
+        <h4>Training and Placement</h4>
+        <p style="text-align: justify;">You’ll develop a strong understanding of React’s most essential concepts: JSX, class and function components, props, state, lifecycle methods, and hooks. You’ll be able to combine these ideas in React’s modular programming style.
+
+            Our trainers are REACT JS Experts with over (X) years of practical experience. It doesn’t matter if you are a beginner or want to improve your existing knowledge of programming, our trainers will mentor you to become the best in your field.
+
+            Groot Academy has been a leading programming training institute in jaipur. We prepare you for Job interviews and provide 100% placement assistance with leading tech companies of India. Our ability to provide practical training to our students has made us the Best REACT JS training institute in Jaipur and nearby cities of Rajasthan.
+        </p>
     </div>
 
 

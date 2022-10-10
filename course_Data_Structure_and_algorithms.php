@@ -7,24 +7,36 @@
 
         <h3>JAVA EXPERT TRAINING</h3>
 
-        <h4>Open the Doors of Opportunity by Becoming an Expert in Java</h4>
+        <h4>Data Structures and Algorithms EXPERT TRAINING</h4>
+        <h5>Open the Doors of Opportunity by Becoming a Data Structures and Algorithms Expert</h5>
 
-        <p>If you are looking to become an expert web application developer or an in-demand software programmer, then <strong>Java Expert Training</strong> is the language to learn. Java is an Object Oriented Programming language which requires sharp logical thinking abilities. The trainers at Groot Academy have more than a decade of experience in developing software solutions using Java. Groot Academy has an edge as a <strong>Best Java Expert Training Institute in Jaipur</strong> because we have global alliances which enable us to create courses based on the current industry requirements. The mentors at Groot Academy guide each student in mastering the basic to advanced concepts of Java. We aim at making every student industry ready and not just learn theoretical knowledge.</p>
+        <p>Data Structures is a concept, a means of storing a collection of data. Data Structures tells you what way the data has to store in computer memory and how to access the data efficiently. Many Applications are designed by data structures stack applications like page visited history in a web-browser, chain of method calls in the Java virtual machine or C++ Run-time environment etc.For many applications like Queue Application Like Waiting Lines, Multi-programming etc. the choice of proper data structure is the only major decision involving the implementation. Majorly the database designing and internal implementation is done only by using Data Structures and algorithms.</p>
 
-        <h4>Why should you learn Java?</h4>
+        <h4>Why should you learn Data Structures and Algorithms</h4>
 
-        <p><strong>Java Training</strong> is the most widely used programming language with a wide range of application. Java was released in the year 1995 by Sun Microsystems. It has been here for more than twenty years. It is used for the development of the Internet of Things, APIs, e-commerce websites, financial trading platforms, scientific applications and a lot more. It is Java that powers Android. <strong>Java Professional Training</strong> is present in every aspect of the digital environment. Learning a language from <strong>Java Professionals</strong> makes it easy to learn other languages if you want to broaden your horizons.</p>
+        <p> This Course's main objective is for the students to understand Analysis and Designing of the Algorithms and how the different data structures are used for efficient accessing of the data and Manipulation of the data. At the end of the session we will be able to Know different Kinds of data structures and to provide different algorithms for time and space complexity.
 
-        <p>You may have no background in programming but you can still learn Java and can become <strong>Expert in Java Training</strong>. Groot Academy is the <strong>Best Java Professional Training Institute in Jaipur</strong> as it gives you a hands-on learning experience in creating various, in-demand solutions using Java.</p>
+            Our faculty have ample experience in the industry; hence they will mold you as per industry expectations and requirements. After the Data Structures & Algorithms Course is completed, we guide our students to get a job in their respective field. We nurture your programming ability, soft skills, analytical reasoning to withstand the competition in the market.
+            <li>Almost every electronic technology runs on some kind of algorithm</li>
+            <li>Algorithms are the core of Library functions and APIs </li>
+            <li>Important for any coding interview or hackathon</li>
+            <li>Data Structures helps in writing optimized code</li>
+        </p>
 
-        <h4>Jobs for Java Programmers</h4>
 
-        <p><strong>Java Expert</strong> developers earn handsome money. As mentioned earlier there is a huge range of possibility for Java programmers. They are in high demand not only in India but in other countries like U.S. and U.K. as well. Some of the career options for Java programmers are Software Developer, Web Developer, Application Developer, Web Programmer, EJB Programmer, Back-End Developer, Big Data Developer, Android Developer, Embedded Devices Developer and a lot more. From mobile phones to supercomputers, there are vast options for usage and application of Java. Become a Java Professional by learning from the <strong>Best Java Training Institute</strong>.</p>
+
+        <h4>Jobs for Data Structures and Algorithms</h4>
+
+        <p>There is a high demand for good Software developers worldwide and with sufficient knowledge of data structure and algorithms you can easily crack the interviews of Google, Microsoft, Amazon, and many more. The data structure is the backbone of today’s highly efficient and faster-moving world.
+            A solid understanding of data structures and algorithms will ultimately make you a better programmer. Therefore, if you want to succeed in the software industry, you must enroll in a data structures and algorithms course. You can learn new languages and frameworks more easily if you have a firm basis in fundamental principles.</p>
 
         <h4>Training and Placement</h4>
 
 
-        <p>Our trainers are <strong>Java Experts &amp; Java Professionals</strong> with over (X) years of practical experience. It doesn&rsquo;t matter if you are a beginner or want to improve your existing knowledge of Java. Our trainers will mentor you to become the best in your field. <strong>Groot Academy Jaipur</strong> has been a leading training institute for the past twenty years. We prepare you for interviews and provide 100% assistance in job placement with leading tech companies of India. Our ability to provide practical training to our students has made us the <strong>Best Java training institute in Jaipur, Ghaziabad, Gurgaon, Gr. Jaipur, Faridabad</strong>.</p>
+        <p>if you don’t understand the fundamentals of data structures and algorithms you are most likely to be rejected in interviews. Your DSA knowledge is almost always tested by top employers. You would need to be well-versed in DSA to be able to load your website page in under a second. Therefore, having a thorough understanding of Big O notations, how an algorithm will operate when the array structure grows, and how it will impact your run time will make all the difference in your interviews.
+
+            Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Data Structures and Algorithms development training institute in Jaipur and nearby cities of Rajasthan.
+        </p>
     </div>
 
     <div class="cr_query">
@@ -56,7 +68,7 @@
                 <li>Benefits of data structure</li>
                 <li>Types of data structure</li>
                 <li>Introduction to algorithms</li>
-                <li>Types of Algorithms</li>              
+                <li>Types of Algorithms</li>
                 <li>Time and Space Complexity</li>
                 <li>Interview Questions</li>
             </ul>
@@ -148,10 +160,10 @@
                 <li>Bubble sort</li>
                 <li>Insertion sort</li>
                 <li>Quick sort</li>
-        
+
             </ul>
 
-            
+
         </div>
         <!-- 
         <div class="q_form">

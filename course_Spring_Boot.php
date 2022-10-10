@@ -4,10 +4,28 @@
 <!-- course details starts -->
 <div class="course_detail">
     <div class="cr_detail_sec">
+<h4>Open the Doors of Opportunity by Becoming a Expert Spring Boot Programmer</h4>
+<p>Spring helps you to solve almost any enterprise problem but for that, you have to set up and configure everything manually. For this you have to learn too many things at once and will eventually feel overwhelmed and you get frustrated. Which makes it incredibly hard when you just get started. 
 
-        <h3>SPRING BOOT &amp; MICROSERVICES SECURITY WITH HIBERNATE &amp; JPA TRAINING</h3>
+On the other hand, Spring Boot provides almost all configuration and set up automatically without doing it manually. As a programmer, our main aim is to focus on business logic rather than to do manual configuration. And this is the reason for most of the developers to select spring boot over spring.
+</p>
+<h4>Why should you learn Spring Boot Programming</h4>
+<p>We are programmers/developers and our one and only aim is to do the task with the available solutions or tools and complete the task with satisfying all the needs. You can proceed to learn spring boot directly without worrying about the spring framework.
+    <li>Spring has flexible and comprehensive set of extensions and third-party libraries</li>
+    <li>Spring is fast and productive</li>
+    <li>Spring is everywhere</li>
+    <li>Spring is secure</li>
+</p>
+<h4>Jobs for Spring Boot Programmer</h4>
+<p>For a few years Spring has been the most popular server-side frameworks in the developer community. Since it is being used widely the number of job opportunities has been on the rise. This rise can be seen as the number of libraries related to Spring in Github is increasing, where out of 100 Github libraries 15 of them are Spring related. Also, developers are able to create Spring applications and several services with ease. Today the need of the hour for the Java developers looking for impressive growth is to learn Spring Framework.
+</p>
+<h4>Training and Placement
+</h4>
+<p>This course focuses on building APIs (application programming interfaces), but Spring can be used to build much more, including cloud services, front-end web apps, and microservices. In this course, you will learn how to build RESTful APIs with the annotations-based approach to Spring and Spring Boot. You’ll first get acquainted with the framework, exploring the file structure, and starting up your own Spring app on your computer. After that, you’ll learn how to handle, route, and respond to requests using controllers. 
 
-        <p>In Spring Microservices training first of all we discuss principles, characteristics, design and use cases along with project implementation. Microservices is an architectural style which says decompose big applications into smaller services. Thereafter communicate those services either synchronously or asynchronously. Besides that the microservices projects are developed by using Boot.</p>
+Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Spring Framework development training institute in Jaipur and nearby cities of Rajasthan.
+
+</p>
     </div>
 
     <div class="cr_query">
