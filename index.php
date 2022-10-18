@@ -104,7 +104,7 @@
                                 <div class="desc desc2">
                                 We are the modern-day IT training institute, dedicated to deliver the best coding knowledge to today’s passionate and innovative programming aspirants like yourself. Our programming courses not only make you job-ready but we also work upon your creative thinking. Students here don’t learn how to be coding machines, but actually how to get their creative juices flowing, stand out in the crowd and make a productive difference.      </div>
                                 <div class="btn-part mt-40">
-                                    <a class="readon discover more" href="contact-up.php">Learn More</a>
+                                    <a class="readon discover more" href="contact-us.php">Learn More</a>
                                 </div>
                             </div>
                         </div>
