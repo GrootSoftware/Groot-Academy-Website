@@ -18,30 +18,7 @@
         <p style="text-align: justify;">React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called &ldquo;components&rdquo;.All these concepts and a lot more than this ,you will get to learn in React.js Training. React is a front-end library developed by Facebook. It is used for handling the view layer for web and mobile apps. ReactJS allows us to create reusable UI components. It is currently one of the most popular JavaScript libraries and has a strong foundation and large community behind it. Get certified In react.js and upgrade your skills in becoming a full stack developer .</p>
     </div>
 
-
-    <div class="q_form">
-        <form action="">
-
-            <h3 class="text-center">Have A Query?</h3>
-            <input type="text" class="form-control my-3" placeholder="Name">
-            <input type="email" class="form-control my-3" placeholder="Email">
-            <input type="text" class="form-control my-3" placeholder="Contact Number">
-            <button class=" my-3">SUBMIT</button>
-        </form>
-        <!-- <textarea type="text" class="form-control" placeholder="Query Here" > -->
-    </div>
-
-    <!-- <div class="cr_query">
-        <div class="q_form" style="width: 100%;">
-            <form action="">
-
-                <h3 class="text-center">Have A Query?</h3>
-                <input type="text" class="form-control my-3" placeholder="Name">
-                <input type="email" class="form-control my-3" placeholder="Email">
-                <input type="text" class="form-control my-3" placeholder="Contact Number">
-                <button class=" my-3">SUBMIT</button>
-            </form>
-            <textarea type="text" class="form-control" placeholder="Query Here" > -->
+    <?php include 'includes/query_form.php'; ?>
 </div>
 </div>
 

@@ -6,33 +6,33 @@
 <!-- curriculum s -->
 <div class="d-flex justify-content-center">
 
-    <div class="card my_cr" >
+    <div class="card my_cr">
         <div class="card-body">
             <h5 class="card-title">Beginner</h5>
             <h6 class="card-subtitle">I know bare minimum coding / starting from scratch</h6>
             <p class="card-text mb-1">12 week course.</p>
             <a href="enroll.php" class="card-link">Enroll Now!</a>
-         
+
         </div>
     </div>
 
-    <div class="card my_cr" >
+    <div class="card my_cr">
         <div class="card-body">
             <h5 class="card-title">Intermediate</h5>
             <h6 class="card-subtitle ">I know coding in 1 programming language. I can build basic apps</h6>
             <p class="card-text mb-1">12 week course.</p>
             <a href="enroll.php" class="card-link">Enroll Now!</a>
-         
+
         </div>
     </div>
 
-    <div class="card my_cr" >
+    <div class="card my_cr">
         <div class="card-body">
             <h5 class="card-title">Advanced</h5>
             <h6 class="card-subtitle ">I am good at coding. I know basic DSA and problem solving. I can build basic / advanced apps.</h6>
             <p class="card-text mb-1">12 week course.</p>
             <a href="enroll.php" class="card-link">Enroll Now!</a>
-         
+
         </div>
     </div>
 </div>
@@ -42,15 +42,15 @@
 
 
 <div class="rs-services style4 modify1 gray-color pt-40 pb-40 md-pb-40 sm-pb-70">
-    <div class="container">
+    <div class="container-fluid">
         <div class="sec-title2 text-center mb-45">
-            <span class="sub-text">Our Latest courses</span>
+            <!-- <span class="sub-text">Our Latest courses</span> -->
             <h3 class="title">
                 Top Populer Courses
             </h3>
         </div>
         <div class="row">
-        <div class="col-lg-4">
+            <div class="col-lg-4">
                 <a href="Become_Software_Engineer_After_10th.php">
                     <div class="services-item">
                         <div class="services-icon">

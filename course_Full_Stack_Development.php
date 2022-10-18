@@ -31,32 +31,20 @@
 
             With new, changing and evolving technologies, if you have knowledge of multiple programming languages and technologies, then you can be a great asset for several companies to have. Employers have started appreciating people with a broader scope of knowledge.
         </p>
-<h4>Training and Placement</h4>
-<p style="text-align: justify;">Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks. 
+        <h4>Training and Placement</h4>
+        <p style="text-align: justify;">Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks.
 
-With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program. 
+            With our Full-Stack Developer Course you’ll dive deeper into topics and techniques via independent and group projects, receive individualized feedback, get mentored by experts, hone your skills in hackathons spread across the program.
 
 
-This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech.
+            This is your chance to prepare for the world of work as a Full-Stack Developer in a product-based company, compile a job-ready project portfolio and become a self-sufficient, versatile software developer with all the critical skills for a long and healthy career in tech.
 
-Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan.
-</p>
+            Groot Academy has been a leading programming training institute in jaipur. Our ability to provide practical training to our students has made us the Best Full-Stack Web Development training institute in Jaipur and nearby cities of Rajasthan.
+        </p>
 
     </div>
 
-    <div class="cr_query">
-        <div class="q_form" style="width: 100%;">
-            <form action="">
-
-                <h3 class="text-center">Have A Query?</h3>
-                <input type="text" class="form-control my-3" placeholder="Name">
-                <input type="email" class="form-control my-3" placeholder="Email">
-                <input type="text" class="form-control my-3" placeholder="Contact Number">
-                <button class=" my-3">SUBMIT</button>
-            </form>
-            <!-- <textarea type="text" class="form-control" placeholder="Query Here" > -->
-        </div>
-    </div>
+    <?php include 'includes/query_form.php'; ?>
 
 </div>
 

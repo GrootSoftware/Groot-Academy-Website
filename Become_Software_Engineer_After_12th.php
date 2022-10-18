@@ -5,7 +5,7 @@
 <div class="course_detail">
     <div class="cr_detail_sec">
 
-        <h3><strong><span itemprop="itemreviewed">Become Software Engineer After 12th in jaipur  | Become Programmer/Coder After 12th in jaipur&nbsp;</span></strong></h3>
+        <h3><strong><span itemprop="itemreviewed">Become Software Engineer After 12th in jaipur | Become Programmer/Coder After 12th in jaipur&nbsp;</span></strong></h3>
 
         <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.9 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.9</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">4128</span> Votes.</p>
 
@@ -19,17 +19,7 @@
     </div>
 
 
-    <div class="q_form">
-        <form action="">
-
-            <h3 class="text-center">Have A Query?</h3>
-            <input type="text" class="form-control my-3" placeholder="Name">
-            <input type="email" class="form-control my-3" placeholder="Email">
-            <input type="text" class="form-control my-3" placeholder="Contact Number">
-            <button class=" my-3">SUBMIT</button>
-        </form>
-        <!-- <textarea type="text" class="form-control" placeholder="Query Here" > -->
-    </div>
+    <?php include 'includes/query_form.php'; ?>
 
     <!-- <div class="cr_query">
         <div class="q_form" style="width: 100%;">
