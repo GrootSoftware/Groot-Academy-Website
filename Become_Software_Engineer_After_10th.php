@@ -14,7 +14,7 @@
         <p style="text-align: justify;"><strong>In this article let’s take a look at how you can become a software engineer after 10th.
             </strong></p>
         <p style="text-align: justify;">So if you are confused and do not know exactly what is software engineering and what are the skills required, or you don’t have a road map and direction to become a software engineer then you should read this article till the end.</p>
-        <p>So without further ADO let’s get started.</p>
+        <p class="mb-0">So without further ADO let’s get started.</p>
 
 
     </div>
@@ -32,20 +32,30 @@
                 <input type="text" class="form-control my-3" placeholder="Contact Number">
                 <button class=" my-3">SUBMIT</button>
             </form>
-            <textarea type="text" class="form-control" placeholder="Query Here" > -->
+            <textarea type="text" class="form-control" placeholder="Query Here" >
+        </div>
+    </div> -->
+
+    
+    
 </div>
-</div>
-<div class="course_detail">
-    <div class="cr_detail_sec">
+
+<!-- <div class="course_detail">
+    <div class="cr_detail_sec ">
         <h4>What is software engineering?</h4>
 
-        <p style="text-align: justify;">We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our React Js Trainees are working across the nation. We at Ducat India, No#1 React Js&nbsp; Course in Noida with 100% Placement . 40+ Modules, 3 Months Course. Certified Trainers with Over 10,000 Students Trained in <strong>React Js&nbsp;Course in Noida.</strong></p>
+        <p class="mb-0">We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our React Js Trainees are working across the nation. We at Ducat India, No#1 React Js&nbsp; Course in Noida with 100% Placement . 40+ Modules, 3 Months Course. Certified Trainers with Over 10,000 Students Trained in <strong>React Js&nbsp;Course in Noida.</strong></p>
+    </div>
+</div> -->
+
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out ">
+        <h4>What is software engineering?</h4>
+
+        <p class="mb-0">We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our React Js Trainees are working across the nation. We at Ducat India, No#1 React Js&nbsp; Course in Noida with 100% Placement . 40+ Modules, 3 Months Course. Certified Trainers with Over 10,000 Students Trained in <strong>React Js&nbsp;Course in Noida.</strong></p>
     </div>
 </div>
 
-
-
-</div>
 
 <div class="rs-services style4 modify1 gray-color pt-40 pb-120 md-pt-75 md-pb-40 sm-pb-70">
     <div class="px-4 d-flex justify-content-around">
@@ -252,18 +262,9 @@
 
         </div>
 
-
-
-
-
-
-
-
-
-
     </div>
 </div>
-< <!-- course details ends -->
+ <!-- course details ends -->
 
 
 
