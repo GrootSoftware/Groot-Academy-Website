@@ -8,7 +8,7 @@
 //hosting
 
 $servername = "127.0.0.1:3306";
-$username = "satnam";
+$username = "u232016825_satnam";
 $password = "HareRam@987";
 $my_db = 'u232016825_groot_academy';
 // Create connection
