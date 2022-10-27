@@ -5,17 +5,18 @@
 <div class="course_detail">
     <div class="cr_detail_sec">
 
-        <h3><strong><span itemprop="itemreviewed"> Become Software Engineer After 10th in jaipur  | Become Programmer/Coder After 10th in jaipur &nbsp;</span></strong></h3>
+        <h3><strong><span itemprop="itemreviewed"> Become Software Engineer After 10th in jaipur | Become Programmer/Coder After 10th in jaipur | Become Software Engineer After 10th &nbsp;</span></strong></h3>
 
         <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.9 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.9</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">4128</span> Votes.</p>
 
-        <p style="text-align: justify;">Are you Looking Best institute for <strong>React js&nbsp;Training Course in Noida</strong>? DUCAT offers React Training classes with live project by expert trainer in Noida Sector 16A. Our <strong>React JavaScript&nbsp;training program&nbsp;in Noida</strong> is specially designed for Students, Under-Graduates, Graduates, Working Professionals and Freelancers. We provide end to end learning on React Domain with deeper dives for creating a winning career for every profile.</p>
+        <h5>How to become a software engineer after 10th & 12th?
+        </h5>
+        <p style="text-align: justify;"><strong>In this article let’s take a look at how you can become a software engineer after 10th.
+            </strong></p>
+        <p style="text-align: justify;">So if you are confused and do not know exactly what is software engineering and what are the skills required, or you don’t have a road map and direction to become a software engineer then you should read this article till the end.</p>
+        <p>So without further ADO let’s get started.</p>
 
-        <h4>Why To Enroll In Our React Js Training Course in Noida?</h4>
 
-        <p style="text-align: justify;">We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our React Js Trainees are working across the nation. We at Ducat India, No#1 React Js&nbsp; Course in Noida with 100% Placement . 40+ Modules, 3 Months Course. Certified Trainers with Over 10,000 Students Trained in <strong>React Js&nbsp;Course in Noida.</strong></p>
-
-        <p style="text-align: justify;">React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called &ldquo;components&rdquo;.All these concepts and a lot more than this ,you will get to learn in React.js Training. React is a front-end library developed by Facebook. It is used for handling the view layer for web and mobile apps. ReactJS allows us to create reusable UI components. It is currently one of the most popular JavaScript libraries and has a strong foundation and large community behind it. Get certified In react.js and upgrade your skills in becoming a full stack developer .</p>
     </div>
 
 
@@ -33,6 +34,13 @@
             </form>
             <textarea type="text" class="form-control" placeholder="Query Here" > -->
 </div>
+</div>
+<div class="course_detail">
+    <div class="cr_detail_sec">
+        <h4>What is software engineering?</h4>
+
+        <p style="text-align: justify;">We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our React Js Trainees are working across the nation. We at Ducat India, No#1 React Js&nbsp; Course in Noida with 100% Placement . 40+ Modules, 3 Months Course. Certified Trainers with Over 10,000 Students Trained in <strong>React Js&nbsp;Course in Noida.</strong></p>
+    </div>
 </div>
 
 
