@@ -12,6 +12,14 @@
 
             If you are aiming to become a server-side Java developer, then you will need to demonstrate Spring framework skills in almost all the Java interviews. Along with Hibernate, Spring is another mandatory skill for Java Programmers.
         </p>
+
+    </div>
+    <?php include 'includes/query_form.php'; ?>
+
+</div>
+
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out ">
         <h4>Why should you learn Spring Framework Programming</h4>
         <p>The core features of the Spring Framework can be used in developing any Java application. It can be described as a complete and modular framework. The Spring Framework can be used for all layer implementations of a real time application. It can also be used for the development of a particular layer of a real time application unlike Struts and Hibernate.
 
@@ -21,8 +29,20 @@
             <li>Spring is everywhere</li>
             <li>Spring is secure</li>
         </p>
+    </div>
+</div>
+
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out ">
         <h4>Jobs for Spring Framework Programmer</h4>
         <p>For a few years Spring has been the most popular server-side frameworks in the developer community. Since it is being used widely the number of job opportunities has been on the rise. This rise can be seen as the number of libraries related to Spring in Github is increasing, where out of 100 Github libraries 15 of them are Spring related. Also, developers are able to create Spring applications and several services with ease. Today the need of the hour for the Java developers looking for impressive growth is to learn Spring Framework.</p>
+
+    </div>
+</div>
+
+
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out ">
         <h4>Training and Placement</h4>
         <p>This course focuses on building APIs (application programming interfaces), but Spring can be used to build much more, including cloud services, front-end web apps, and microservices. In this course, you will learn how to build RESTful APIs with the annotations-based approach to Spring and Spring Boot. You’ll first get acquainted with the framework, exploring the file structure, and starting up your own Spring app on your computer. After that, you’ll learn how to handle, route, and respond to requests using controllers.
 
@@ -30,7 +50,6 @@
         </p>
     </div>
 
-    <?php include 'includes/query_form.php'; ?>
 
 </div>
 
