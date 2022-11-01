@@ -11,6 +11,13 @@
         <h5>Open the Doors of Opportunity by Becoming a Data Structures and Algorithms Expert</h5>
 
         <p>Data Structures is a concept, a means of storing a collection of data. Data Structures tells you what way the data has to store in computer memory and how to access the data efficiently. Many Applications are designed by data structures stack applications like page visited history in a web-browser, chain of method calls in the Java virtual machine or C++ Run-time environment etc.For many applications like Queue Application Like Waiting Lines, Multi-programming etc. the choice of proper data structure is the only major decision involving the implementation. Majorly the database designing and internal implementation is done only by using Data Structures and algorithms.</p>
+    </div>
+    <?php include 'includes/query_form.php'; ?>
+</div>
+
+
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out">
 
         <h4>Why should you learn Data Structures and Algorithms</h4>
 
@@ -22,14 +29,22 @@
             <li>Important for any coding interview or hackathon</li>
             <li>Data Structures helps in writing optimized code</li>
         </p>
+    </div>    
+</div>
 
 
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out">
 
         <h4>Jobs for Data Structures and Algorithms</h4>
 
         <p>There is a high demand for good Software developers worldwide and with sufficient knowledge of data structure and algorithms you can easily crack the interviews of Google, Microsoft, Amazon, and many more. The data structure is the backbone of today’s highly efficient and faster-moving world.
             A solid understanding of data structures and algorithms will ultimately make you a better programmer. Therefore, if you want to succeed in the software industry, you must enroll in a data structures and algorithms course. You can learn new languages and frameworks more easily if you have a firm basis in fundamental principles.</p>
+    </div>
+</div>
 
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out">
         <h4>Training and Placement</h4>
 
 
@@ -39,7 +54,7 @@
         </p>
     </div>
 
-    <?php include 'includes/query_form.php'; ?>
+   
 
 </div>
 

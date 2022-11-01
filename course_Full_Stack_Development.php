@@ -22,7 +22,7 @@
     <?php include 'includes/query_form.php'; ?> 
 </div>   
 <div class="course_detail">
-    <div class="cr_detail_sec">       
+    <div class="cr_detail_sec cr_detail_sec_out">       
         <h4> Why should you learn Full Stack Web Development</h4>
         <p style="text-align: justify;">Full-stack development is about understanding the two areas in sufficient detail and making communication between them easy and smooth. As technologies and industries evolve, Full-Stack developers need to learn new technologies to stay abreast of the latest trends and this is where Groot Academy is going to partner you in the journey. This broad range of skills across the stack is a superpower for software developers.
 
@@ -36,7 +36,7 @@
 </div>  
 
 <div class="course_detail">
-    <div class="cr_detail_sec"> 
+    <div class="cr_detail_sec cr_detail_sec_out"> 
         <h4>Jobs for Full Stack Developer</h4>
         <p style="text-align: justify;">A full stack web developer has become the most sought after job profile for the past few years. Every organization is looking for a seamless experience and this is easily achieved when there is just one person to do both client-side and server-side coding. Two people also mean more salary and resources and ideas.
 
@@ -46,7 +46,7 @@
 </div> 
 
 <div class="course_detail">
-    <div class="cr_detail_sec">       
+    <div class="cr_detail_sec cr_detail_sec_out">       
         <h4>Training and Placement</h4>
         <p style="text-align: justify;">Designed to get you hired, this power-packed Full-Stack Web Development course features best-in-class live training, on-demand learning, plenty of hands-on exercises, assignments and so much more. Gain a deep understanding of how to build, deploy, secure and scale programs and build expertise across the user interface, business logic and database stacks.
 
