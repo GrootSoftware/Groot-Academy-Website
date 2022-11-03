@@ -104,7 +104,7 @@
                                 <div class="desc desc2">
                                 We are the modern-day IT training institute, dedicated to deliver the best coding knowledge to today’s passionate and innovative programming aspirants like yourself. Our programming courses not only make you job-ready but we also work upon your creative thinking. Students here don’t learn how to be coding machines, but actually how to get their creative juices flowing, stand out in the crowd and make a productive difference.      </div>
                                 <div class="btn-part mt-40">
-                                    <a class="readon discover more" href="contact.php">Learn More</a>
+                                    <a class="readon discover more" href="contact-us.php">Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -438,7 +438,7 @@ It’s okay. Let’s conclude it together.
                                                 <h3 class="title">Flexible Batches
 </h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
+                                            <p class="number-txt">At times, we have multiple batches for each course for the comfort of learners.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -451,7 +451,7 @@ It’s okay. Let’s conclude it together.
                                             <div class="number-title">
                                                 <h3 class="title">All-Practical Classes</h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
+                                            <p class="number-txt">Our lectures follow 80:20 rules i.e. 80% practical and 20% theory based learning.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -464,7 +464,7 @@ It’s okay. Let’s conclude it together.
                                             <div class="number-title">
                                                 <h3 class="title">Real Projects</h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
+                                            <p class="number-txt">We offer live group projects to our students to experience industry-level development.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -477,7 +477,7 @@ It’s okay. Let’s conclude it together.
                                             <div class="number-title">
                                                 <h3 class="title">Placement Assistance</h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
+                                            <p class="number-txt">We also have a dedicated placement cell to help our students land at good jobs.</p>
                                         </div>
                                     </div>
                                 </div>

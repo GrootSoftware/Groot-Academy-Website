@@ -1,11 +1,33 @@
+<?php include 'connection.php';?>
 <!DOCTYPE html>
 <html lang="zxx">
 
 <head>
   <!-- meta tag -->
   <meta charset="utf-8">
-  <title>Groot Academy</title>
-  <meta name="description" content="">
+  <?php
+      $page_name= basename($_SERVER['PHP_SELF']);
+      // echo $page_name;
+      $query=sprintf("select * from meta_description where page_name='%s'",mysqli_real_escape_string($conn,$page_name));
+      // echo $query;
+      $description="";
+      $title="";
+      $keywords="";
+      $auther="";
+      // $qr="select * from meta_description where page_name";
+      $result = mysqli_query($conn,$query,MYSQLI_STORE_RESULT);
+      while ($row = mysqli_fetch_assoc($result)) {
+        $description= $row['description'];
+        $title= $row['title'];
+        $keywords= $row['keywords'];
+        $auther= $row['auther'];
+      
+    }
+?>
+  <title><?php echo $title; ?></title>
+  <meta name="description" content="<?php echo $description; ?>">
+  <meta name="keywords" content="<?php echo $keywords; ?>">
+  <meta name="author" content="<?php echo $auther; ?>">
   <!-- responsive tag -->
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">

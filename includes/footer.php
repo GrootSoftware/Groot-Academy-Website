@@ -82,6 +82,7 @@
                                <li><a href=" Blogs_by_Groot_Academy.php">Blog</a></li>
                                <li><a href="contact-us.php">Contact Us</a></li>
                                <li><a href="Frequently_Asked_Questions.php">FAQs</a></li>
+                               <li><a href="Privacy_Policy_For_Groot_Academy.php">Privacy and Policies</a></li>
                            </ul>
                        </div>
                        <div class="col-lg-6">

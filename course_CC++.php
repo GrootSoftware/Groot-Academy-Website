@@ -12,7 +12,15 @@
         <p><span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.5</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">1699</span> Votes.</p>
         <h4>Open the Doors of Opportunity by Becoming a Expert C/C++ Programmer</h4>
         <p>C++ is a general-purpose programming language. This language is around 40 years old and has been a part of many software problems and projects. C++ language is preferred to make high-performance software and is among the top programming languages. C++ is considered as a foundation language for many languages. It is one of the essential languages that you must know if you are interested in computer science. There is a very high chance that every other programmer or software developer who is doing great in his life is familiar with the concepts and fundamentals of C++. </p>
+    </div>
+    <?php include 'includes/query_form.php'; ?>
+</div>
 
+
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out">
+
+       
         <h4>Why should you learn C/C++ Programming</h4>
 
         <p>C++ is an advanced language that supports various programming methods like functional, procedural, and object-oriented programming. It is a fast language; its compile-time and execution time is faster than other programming languages. Many applications and software that you use or go through in your daily lives are developed in C++. For example, Spotify, the popular music streaming application, has its backend code written in C++. You all know Youtube, C++ is used in building YouTube video processing functions. The Amazon application was also written in C++, however, there are changes over the years and more software like these are developed using C++.
@@ -22,6 +30,13 @@
             <li>Suitable for Big Projects</li>
         </p>
 
+    </div>
+</div>
+
+
+ <div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out">
+
         <h4>Jobs for C/C++ Programmer</h4>
         
 
@@ -30,22 +45,7 @@
 
        
 
-    </div>
-
-    <div class="cr_query">
-        <div class="q_form" style="width: 100%;">
-            <form action="">
-
-                <h3 class="text-center">Have A Query?</h3>
-                <input type="text" class="form-control my-3" placeholder="Name">
-                <input type="email" class="form-control my-3" placeholder="Email">
-                <input type="text" class="form-control my-3" placeholder="Contact Number">
-                <button class=" my-3">SUBMIT</button>
-            </form>
-            <!-- <textarea type="text" class="form-control" placeholder="Query Here" > -->
-        </div>
-    </div>
-
+    </div>  
 </div>
 
 <div class="rs-services style4 modify1 gray-color pt-40 pb-120 md-pt-75 md-pb-40 sm-pb-70">

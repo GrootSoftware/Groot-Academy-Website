@@ -5,36 +5,80 @@
 <div class="course_detail">
     <div class="cr_detail_sec">
 
-        <h3 class="red-heading"><strong><span itemprop="itemreviewed">ANGULAR TRAINING IN Jaipur | ANGULARJS TRAINING&nbsp;INSTITUTE IN Jaipur</span></strong></h3>
-        <span itemprop="rating" itemscope="" itemtype="http://data-vocabulary.org/Rating"><img alt="4.5 Star Rating: Very Good" src="assets/images/star_rating_groot_Academy.jpg" style="margin-left: 22px;" /> <span itemprop="average">4.7</span> out of <span itemprop="best">5</span> </span>based on <span itemprop="votes">3265</span> Votes
+        <h4>Open the Doors of Opportunity by Becoming an Expert AngularJS Programmer</h4>
 
-        <p style="text-align: justify;">Are you Looking Best Institute for <strong>Angular JS Training Course in Jaipur?</strong> groot academy offers Angularjs Training classes in Jaipur with vital tasks by the professional trainers in Jaipur Sector 16. Our AngularJS training program in Jaipur is designed explicitly for Students, UG, Graduates, Professionals, and Freelancers. groot academy India provides end to end learning on Angular Domain with deeper dives for making a winning career for every profile.</p>
-
-        <p><strong>Angular </strong> is an open-source framework created and maintained by the developers. It is utilized by the developers to develop the net applications. <strong>Angular Training Courses in Delhi NCR</strong> grants not only the tools which are required but also design patterns to build a project in a conceivable way. When an Angular application is designed properly, you don&rsquo;t end up with twisted classes and methods that are strong to modify and even stronger to test. The code is organized conveniently and you will not need to spend much time in order to understand what is going on. And there are many more things that Angular can offer us! If you will opt for <strong>Best IT &amp; Technical Training in Angular</strong>.</p>
-
-        <p>Angular is constructed with Typescript, which in turn relies on JS ES6. You do not need to learn a totally new language, but you still will learn features like static typing, interfaces, classes, namespaces, decorators etc. <strong>Angular Training</strong> is meant to be thoroughly tested and also supports both unit and end-to-end testing with tools like Jasmine and Protractor. Angular is mobile and desktop-ready tool, meaning we have one framework for multiple platforms for both mobile &amp; desktop. Angular is earnestly maintained and has a very big community and ecosystem. You will be learning lots of materials on this framework as well as many useful third-party tools by enrolling yourself in our <strong>Best Angular Course</strong>. With <strong>Best Angular Institute</strong>, you already have lots of tools to start creating the application right away. You have directives to give HTML elements a type of dynamic behavior. You can start up the forms using Form Control and can introduce various validation rules which will be required. You will be able to easily send asynchronous HTTP requests of various types and you will be able to set up routing with little problem. If you want to get <strong>Angular Training in Jaipur</strong> than groot academy which is <strong>Best IT Training Institute</strong> will provide you real-time training in IT courses. Because we have real-time working trainers who have more experience in this particular field and are more qualified in their field.</p>
-
-        <p><strong>groot academy</strong> is one of the <strong>Best Angular Training Institute</strong> we have in India. We have branches across major Indian cities. We also offer 100 % placement assistance to our students at every stage of their life. The institute has maintained its brand value and name from the past. It Offers <strong>Best Angular Training course in Jaipur.</strong></p>
-
-        <h4><strong>Why To Enroll In Our <span itemprop="itemreviewed">ANGULAR</span>&nbsp;Training Course in Jaipur?</strong></h4>
-
-        <p>We Focus on Innovative ideas, High-quality Training, Smart Classes, 100% job assistance, Opening the doors of opportunities. Our <strong><span itemprop="itemreviewed">ANGULAR&nbsp;</span></strong>Trainees are working across the nation. We at groot academy India, No#1 <strong><span itemprop="itemreviewed">ANGULAR</span></strong>&nbsp;Course in Jaipur with 100% Placement.&nbsp;Certified Trainers with Over 10,000 Students Trained in <strong><span itemprop="itemreviewed">ANGULAR</span> Course in Jaipur.</strong></p>
+        <p>Over the past couple of years, the growth of AngularJS has taken a huge leap and under such a
+            scenario, like an obvious fact, the career opportunities in this field have taken a tremendous
+            leap. So if you are looking for a career that will fill your pockets big, then it’s high time that you
+            learn AngularJS. Although there is a wide range of JavaScript frameworks, AngularJS has
+            managed to stand out among all of those because of its peculiar features. It offers many such
+            features that are unique and are of great use to the users like two-way binding, handling
+            dependency injections, etc. The professionals who aspire to achieve a stable career in SPA
+            (Single Page Application) are more ready to benefit from AngularJS.</p>
     </div>
+    <?php include 'includes/query_form.php'; ?>
+</div>
 
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out ">
+        <h4>Why should you learn AngularJS</h4>
+        <p>Angular is Developed by Google, Powered by Microsoft and now being used on over 9,000
+            websites, including some famous companies like Intel, Sprint, NBC, Walgreens and ABC News.
+            The statistics show the popularity of Angular framework among the developers. It is an all-
+            powerful JavaScript system that permits all engineers to make Single Page Applications in a
+            spotless and efficient manner. It is a cutting edge JS structure that allows the usage of HTML as
+            a master language. So as to give upgraded and responsive client experience.
+            <li>AngularJS Facilitates Immensely to Parallel Development</li>
+            <li>AngularJS Manages Dependencies</li>
+            <li>Reduced Line Coding</li>
+            <li>MVC Compatibility</li>
+            <li>High Performancey</li>
+        </p>
 
-    <div class="q_form">
-        <form action="">
-
-            <h3 class="text-center">Have A Query?</h3>
-            <input type="text" class="form-control my-3" placeholder="Name">
-            <input type="email" class="form-control my-3" placeholder="Email">
-            <input type="text" class="form-control my-3" placeholder="Contact Number">
-            <button class=" my-3">SUBMIT</button>
-        </form>
-        <!-- <textarea type="text" class="form-control" placeholder="Query Here" > -->
     </div>
+</div>
 
-    <!-- <div class="cr_query">
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out ">
+        <h4>Jobs for AngularJS Programmers</h4>
+        <p>The progress of the job market of AngularJS is going really well, promising bright job prospects
+            in the future. Gaining appreciable popularity in web development also meant the need for
+            talented professionals who can meet the expectations of the enterprise. Many prominent web
+            developers have revealed that a professional with Hadoop and AngularJS skills in their
+            functional CV is highly sought after. According to payscale, the standard pay of an AngularJS
+            developer is 425,863 per annum in India. The salary of AngularJS developers in the UK slightly
+            varies in different surveys conducted by various sites. A pay that will fill your pockets big time
+            and helps you grow as a developer alongside is always a good asset in the eyes of an
+            employee.</p>
+
+    </div>
+</div>
+
+<div class="course_detail">
+    <div class="cr_detail_sec cr_detail_sec_out ">
+        <h4>Training and Placement</h4>
+        <p>The curriculum of AngularJS at Groot Academy is curated by industry experts. The team is well-
+            aware of the industry trends and has included a syllabus that complements the competitive
+            market. We acknowledge that practical knowledge is imperative to succeed in the relentless
+            market. That’s why we include live projects with which the students get hands-on experience of
+            real-life projects.<br><br>
+
+            Our mentors who conduct classes flaunt vast knowledge and expertise in the Software industry.
+            We will ensure a step-by-step learning process which is why we start with the basics first and
+            will steadily master the skills of developing web platforms using AngularJS. Also we are aware
+            of the challenges of getting a job which is why we provide 100% placement assistance wherein
+            we guide students with resume preparation and interview questions to survive in this cut- throat
+            competition.<br><br>
+
+            Groot Academy has been a leading programming training institute in jaipur. Our ability to
+            provide practical training to our students has made us the Best AngularJS training institute in
+            Jaipur and nearby cities of Rajasthan.</p>
+
+    </div>
+</div>
+
+
+<!-- <div class="cr_query">
         <div class="q_form" style="width: 100%;">
             <form action="">
 
@@ -46,9 +90,8 @@
             </form>
             <!- <textarea type="text" class="form-control" placeholder="Query Here" > -->
 </div>
-</div>
 
-</div>
+
 
 <div class="rs-services style4 modify1 gray-color pt-40 pb-120 md-pt-75 md-pb-40 sm-pb-70">
     <div class="px-4 d-flex justify-content-around">
