@@ -63,7 +63,7 @@
 
                     </div>
                     <div id="form-messages"></div>
-                    <form id="contact-form" method="post" action="contact-us.php">
+                    <form id="contact-form" method="post" action="form_process.php">
                         <fieldset>
                             <div class="row">
                                 <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
@@ -76,7 +76,7 @@
                                     <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone Number" required="">
                                 </div>
                                 <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-                                    <input class="from-control" type="text" id="Website" name="subject" placeholder="Your Website" required="">
+                                    <input class="from-control" type="text" id="Website" name="courseName" placeholder="Enter Courese name your are intersted for" >
                                 </div>
 
                                 <div class="col-lg-12 mb-30">
