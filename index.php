@@ -5,8 +5,8 @@
                 <div class="container">
                     <div class="banner-content">
                         <!-- <span class="sub-title">Technology & It Solutions </span> -->
-                       <h1 class="title">Best skill-oriented IT training Institute</h1>
-                        <p class="desc">
+                       <h1 class="title title20">Best skill-oriented IT training Institute</h1>
+                        <p class="desc title20">
                         Gain the programming knowledge in your favorite technology under the mentorship of industry-experts        </p>
                         <ul class="banner-btn">
                             <!-- <li><a class="readon discover" href="about.php">Discover More</a></li> -->
@@ -97,14 +97,14 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5">
                             <div class="sec-title2 mb-30">
-                                <div class="sub-text">Our Company</div>
-                                <h2 class=" title title3 pb-20">
+                                <div class="sub-text title20">Our Company</div>
+                                <h2 class=" title title3 pb-20 title20">
                                 Groot Academy 
    </h2>
-                                <div class="desc desc2">
+                                <div class="desc desc2 title20 ">
                                 We are the modern-day IT training institute, dedicated to deliver the best coding knowledge to today’s passionate and innovative programming aspirants like yourself. Our programming courses not only make you job-ready but we also work upon your creative thinking. Students here don’t learn how to be coding machines, but actually how to get their creative juices flowing, stand out in the crowd and make a productive difference.      </div>
-                                <div class="btn-part mt-40">
-                                    <a class="readon discover more" href="contact-us.php">Learn More</a>
+                                <div class="btn-part mt-40 title20">
+                                    <a class="readon discover more " href="contact-us.php">Learn More</a>
                                 </div>
                             </div>
                         </div>
