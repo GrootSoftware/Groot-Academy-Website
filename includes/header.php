@@ -6,23 +6,23 @@
   <!-- meta tag -->
   <meta charset="utf-8">
   <?php
-      $page_name= basename($_SERVER['PHP_SELF']);
-      // echo $page_name;
-      $query=sprintf("select * from meta_description where page_name='%s'",mysqli_real_escape_string($conn,$page_name));
-      // echo $query;
-      $description="";
-      $title="";
-      $keywords="";
-      $auther="";
-      // $qr="select * from meta_description where page_name";
-      $result = mysqli_query($conn,$query,MYSQLI_STORE_RESULT);
-      while ($row = mysqli_fetch_assoc($result)) {
-        $description= $row['description'];
-        $title= $row['title'];
-        $keywords= $row['keywords'];
-        $auther= $row['auther'];
+    //   $page_name= basename($_SERVER['PHP_SELF']);
+    //   // echo $page_name;
+    //   $query=sprintf("select * from meta_description where page_name='%s'",mysqli_real_escape_string($conn,$page_name));
+    //   // echo $query;
+    //   $description="";
+    //   $title="";
+    //   $keywords="";
+    //   $auther="";
+    //   // $qr="select * from meta_description where page_name";
+    //   $result = mysqli_query($conn,$query,MYSQLI_STORE_RESULT);
+    //   while ($row = mysqli_fetch_assoc($result)) {
+    //     $description= $row['description'];
+    //     $title= $row['title'];
+    //     $keywords= $row['keywords'];
+    //     $auther= $row['auther'];
       
-    }
+    // }
 ?>
   <title><?php echo $title; ?></title>
   <meta name="description" content="<?php echo $description; ?>">
@@ -145,10 +145,7 @@
             <ul class="navbar-bar">
               <li>
                 <a href="./index.php">Home</a>
-              </li>
-              
-              
-             
+              </li>     
              
               <li>
                 <a href="Courses_By_Groot_Academy.php">Courses</a>

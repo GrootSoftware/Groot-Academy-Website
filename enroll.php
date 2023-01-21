@@ -11,7 +11,7 @@
                 <li>3. Clear your concepts and know which data structure to use for the most optimum build</li>
             </ul>
         </div>
-        <div class="main-second">
+        <div class="main-second" >
             <form action="">
                 <h3>Request a callback to Start your journey with groot academy!</h3>
                 <label for="email">Email ID <span class="star">*</span></label>
